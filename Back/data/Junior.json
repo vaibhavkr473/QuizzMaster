@@ -1,0 +1,876 @@
+[
+    {
+        "id": "quick-1",
+        "title": "Mental Ability (10 Questions)",
+        "questions": [
+            {
+                "question": "Complete the series: 2, 5, 10, 17, ___",
+                "options": ["24", "26", "28", "30"],
+                "answer": "26"
+            },
+            {
+                "question": "If 'PENCIL' is written as 'NCPGJK', how is 'ERASER' written?",
+                "options": ["CPYQCP", "CPYQDP", "CPZQCP", "DPYQCP"],
+                "answer": "CPYQCP"
+            },
+            {
+                "question": "Find the odd one out: Square, Rectangle, Triangle, Circle",
+                "options": ["Square", "Rectangle", "Triangle", "Circle"],
+                "answer": "Circle"
+            },
+            {
+                "question": "A is B's sister. C is B's mother. D is C's father. How is A related to D?",
+                "options": ["Granddaughter", "Daughter", "Niece", "Sister"],
+                "answer": "Granddaughter"
+            },
+            {
+                "question": "If 15th August 1947 was Friday, what day was 26th January 1950?",
+                "options": ["Thursday", "Friday", "Saturday", "Sunday"],
+                "answer": "Thursday"
+            },
+            {
+                "question": "Which number replaces the question mark? 4, 9, 19, 39, ?",
+                "options": ["59", "69", "79", "89"],
+                "answer": "79"
+            },
+            {
+                "question": "Pointing to a photograph, a man said 'This man's son is my son's father'. How is he related to the man in the photo?",
+                "options": ["Father", "Brother", "Himself", "Uncle"],
+                "answer": "Himself"
+            },
+            {
+                "question": "If South-East becomes North, then West becomes?",
+                "options": ["South-East", "North-East", "North-West", "South-West"],
+                "answer": "South-East"
+            },
+            {
+                "question": "Find the missing number: 5, 16, 49, 104, ?",
+                "options": ["148", "170", "181", "196"],
+                "answer": "181"
+            },
+            {
+                "question": "Which word does NOT belong with the others?",
+                "options": ["Volume", "Size", "Large", "Shape"],
+                "answer": "Large"
+            }
+        ]
+    },
+    {
+        "id": "quick-2",
+        "title": "Numerical Ability (10 Questions)",
+        "questions": [
+            {
+                "question": "What is 25% of 200?",
+                "options": ["25", "50", "75", "100"],
+                "answer": "50"
+            },
+            {
+                "question": "If 3x + 7 = 22, what is x?",
+                "options": ["3", "5", "7", "9"],
+                "answer": "5"
+            },
+            {
+                "question": "What is the average of first 10 natural numbers?",
+                "options": ["5", "5.5", "6", "6.5"],
+                "answer": "5.5"
+            },
+            {
+                "question": "A train covers 120 km in 2 hours. What is its speed?",
+                "options": ["40 km/h", "50 km/h", "60 km/h", "70 km/h"],
+                "answer": "60 km/h"
+            },
+            {
+                "question": "What is the square of 15?",
+                "options": ["125", "175", "225", "275"],
+                "answer": "225"
+            },
+            {
+                "question": "Simplify: (12 × 3) ÷ (9 - 3)",
+                "options": ["4", "6", "8", "10"],
+                "answer": "6"
+            },
+            {
+                "question": "What is the LCM of 12 and 18?",
+                "options": ["24", "36", "48", "72"],
+                "answer": "36"
+            },
+            {
+                "question": "If a shirt costs ₹500 after 20% discount, what was its original price?",
+                "options": ["₹600", "₹625", "₹650", "₹700"],
+                "answer": "₹625"
+            },
+            {
+                "question": "What is 3/4 expressed as percentage?",
+                "options": ["30%", "45%", "60%", "75%"],
+                "answer": "75%"
+            },
+            {
+                "question": "A rectangle has length 8cm and width 5cm. What is its perimeter?",
+                "options": ["13cm", "26cm", "40cm", "80cm"],
+                "answer": "26cm"
+            }
+        ]
+    },
+    {
+        "id": "quick-3",
+        "title": "English (10 Questions)",
+        "questions": [
+            {
+                "question": "Choose the correct spelling:",
+                "options": ["Accomodate", "Acommodate", "Accommodate", "Acomodate"],
+                "answer": "Accommodate"
+            },
+            {
+                "question": "What is the antonym of 'Benevolent'?",
+                "options": ["Kind", "Generous", "Malevolent", "Friendly"],
+                "answer": "Malevolent"
+            },
+            {
+                "question": "Identify the noun: 'The quick brown fox jumps over the lazy dog'",
+                "options": ["Quick", "Fox", "Jumps", "Over"],
+                "answer": "Fox"
+            },
+            {
+                "question": "Which sentence is in passive voice?",
+                "options": [
+                    "The cat chased the mouse",
+                    "The mouse was chased by the cat",
+                    "She sings a song",
+                    "They are playing football"
+                ],
+                "answer": "The mouse was chased by the cat"
+            },
+            {
+                "question": "Fill the blank: She ___ to school every day.",
+                "options": ["go", "goes", "going", "gone"],
+                "answer": "goes"
+            },
+            {
+                "question": "What is the plural of 'child'?",
+                "options": ["Childs", "Children", "Childes", "Child"],
+                "answer": "Children"
+            },
+            {
+                "question": "Identify the conjunction: 'I wanted to go but it was raining'",
+                "options": ["I", "Wanted", "But", "Raining"],
+                "answer": "But"
+            },
+            {
+                "question": "What is the past participle of 'write'?",
+                "options": ["Wrote", "Written", "Writed", "Writing"],
+                "answer": "Written"
+            },
+            {
+                "question": "Which is an abstract noun?",
+                "options": ["Book", "Happiness", "Table", "Water"],
+                "answer": "Happiness"
+            },
+            {
+                "question": "Choose the correct punctuation:",
+                "options": [
+                    "\"What time is it\" asked Ravi.",
+                    "\"What time is it?\" asked Ravi.",
+                    "\"What time is it?\" Asked Ravi.",
+                    "\"What time is it\" Asked Ravi."
+                ],
+                "answer": "\"What time is it?\" asked Ravi."
+            }
+        ]
+    },
+    {
+        "id": "quick-4",
+        "title": "General Knowledge (5 Questions)",
+        "questions": [
+            {
+                "question": "Who is known as the 'Father of the Indian Constitution'?",
+                "options": [
+                    "Mahatma Gandhi",
+                    "Jawaharlal Nehru",
+                    "B.R. Ambedkar",
+                    "Sardar Patel"
+                ],
+                "answer": "B.R. Ambedkar"
+            },
+            {
+                "question": "Which is the national animal of India?",
+                "options": ["Lion", "Elephant", "Tiger", "Peacock"],
+                "answer": "Tiger"
+            },
+            {
+                "question": "Which state is known as the 'Spice Garden of India'?",
+                "options": ["Kerala", "Karnataka", "Tamil Nadu", "Andhra Pradesh"],
+                "answer": "Kerala"
+            },
+            {
+                "question": "Who wrote the Indian National Anthem?",
+                "options": [
+                    "Rabindranath Tagore",
+                    "Bankim Chandra Chatterjee",
+                    "Sarojini Naidu",
+                    "Iqbal"
+                ],
+                "answer": "Rabindranath Tagore"
+            },
+            {
+                "question": "Which planet is known as the 'Red Planet'?",
+                "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+                "answer": "Mars"
+            }
+        ]
+    },
+    {
+        "id": "class-8-maths",
+        "title": "Class 8 Mathematics (25 Questions)",
+        "questions": [
+            {
+                "question": "What is the multiplicative inverse of -1/5?",
+                "options": ["5", "-5", "1/5", "-1/5"],
+                "answer": "-5"
+            },
+            {
+                "question": "The solution of 2y + 9 = 4 is:",
+                "options": ["-5/2", "1/2", "2", "13/2"],
+                "answer": "-5/2"
+            },
+            {
+                "question": "The number of faces of a cube is:",
+                "options": ["4", "6", "8", "12"],
+                "answer": "6"
+            },
+            {
+                "question": "The square of 25 is:",
+                "options": ["125", "225", "425", "625"],
+                "answer": "625"
+            },
+            {
+                "question": "The cube root of 343 is:",
+                "options": ["7", "9", "11", "13"],
+                "answer": "7"
+            },
+            {
+                "question": "Which of these is a Pythagorean triplet?",
+                "options": [
+                    "2, 3, 4",
+                    "5, 12, 13",
+                    "6, 9, 12",
+                    "7, 14, 16"
+                ],
+                "answer": "5, 12, 13"
+            },
+            {
+                "question": "The area of a rhombus with diagonals 6cm and 8cm is:",
+                "options": ["12 cm²", "24 cm²", "36 cm²", "48 cm²"],
+                "answer": "24 cm²"
+            },
+            {
+                "question": "The value of (3⁰ + 4⁰) × 5⁰ is:",
+                "options": ["0", "1", "2", "5"],
+                "answer": "2"
+            },
+            {
+                "question": "The standard form of 0.0000567 is:",
+                "options": [
+                    "5.67 × 10⁻⁵",
+                    "5.67 × 10⁻⁶",
+                    "56.7 × 10⁻⁶",
+                    "567 × 10⁻⁷"
+                ],
+                "answer": "5.67 × 10⁻⁵"
+            },
+            {
+                "question": "The compound interest on ₹1000 at 10% for 2 years is:",
+                "options": ["₹100", "₹200", "₹210", "₹220"],
+                "answer": "₹210"
+            },
+            {
+                "question": "The next term in the pattern 1, 8, 27, 64, ___ is:",
+                "options": ["81", "100", "125", "216"],
+                "answer": "125"
+            },
+            {
+                "question": "The HCF of 24 and 36 is:",
+                "options": ["6", "8", "12", "18"],
+                "answer": "12"
+            },
+            {
+                "question": "The solution of x/3 + 5/2 = -3/2 is:",
+                "options": ["-12", "-6", "6", "12"],
+                "answer": "-12"
+            },
+            {
+                "question": "The volume of a cube with side 5cm is:",
+                "options": ["25 cm³", "100 cm³", "125 cm³", "150 cm³"],
+                "answer": "125 cm³"
+            },
+            {
+                "question": "The probability of getting a prime number when a die is rolled is:",
+                "options": ["1/6", "1/3", "1/2", "2/3"],
+                "answer": "1/2"
+            },
+            {
+                "question": "The sum of the angles of a quadrilateral is:",
+                "options": ["180°", "270°", "360°", "540°"],
+                "answer": "360°"
+            },
+            {
+                "question": "The value of π (pi) up to two decimal places is:",
+                "options": ["3.14", "3.16", "3.18", "3.20"],
+                "answer": "3.14"
+            },
+            {
+                "question": "The area of a trapezium with parallel sides 5cm and 7cm and height 4cm is:",
+                "options": ["12 cm²", "24 cm²", "36 cm²", "48 cm²"],
+                "answer": "24 cm²"
+            },
+            {
+                "question": "The decimal representation of 5/8 is:",
+                "options": ["0.375", "0.5", "0.625", "0.875"],
+                "answer": "0.625"
+            },
+            {
+                "question": "The number of edges of a triangular prism is:",
+                "options": ["6", "9", "12", "15"],
+                "answer": "9"
+            },
+            {
+                "question": "The value of (2/3)⁻² is:",
+                "options": ["4/9", "-4/9", "9/4", "-9/4"],
+                "answer": "9/4"
+            },
+            {
+                "question": "The median of first 10 natural numbers is:",
+                "options": ["5", "5.5", "6", "6.5"],
+                "answer": "5.5"
+            },
+            {
+                "question": "The product (x + 3)(x - 3) is equal to:",
+                "options": ["x² - 9", "x² + 9", "x² - 6x + 9", "x² + 6x + 9"],
+                "answer": "x² - 9"
+            },
+            {
+                "question": "The simple interest on ₹500 at 5% for 4 years is:",
+                "options": ["₹50", "₹100", "₹150", "₹200"],
+                "answer": "₹100"
+            },
+            {
+                "question": "The mode of data: 3, 5, 7, 3, 5, 3, 2 is:",
+                "options": ["2", "3", "5", "7"],
+                "answer": "3"
+            }
+        ]
+    },
+    {
+        "id": "class-8-science",
+        "title": "Class 8 Science (25 Questions)",
+        "questions": [
+            {
+                "question": "Which microorganism causes malaria?",
+                "options": ["Bacteria", "Virus", "Protozoa", "Fungus"],
+                "answer": "Protozoa"
+            },
+            {
+                "question": "Which of these is a kharif crop?",
+                "options": ["Wheat", "Rice", "Mustard", "Peas"],
+                "answer": "Rice"
+            },
+            {
+                "question": "The process of conversion of sugar into alcohol is called:",
+                "options": ["Nitrogen fixation", "Moulding", "Fermentation", "Infection"],
+                "answer": "Fermentation"
+            },
+            {
+                "question": "Which metal is liquid at room temperature?",
+                "options": ["Iron", "Copper", "Mercury", "Aluminium"],
+                "answer": "Mercury"
+            },
+            {
+                "question": "The force that opposes motion between two surfaces in contact is called:",
+                "options": ["Gravity", "Friction", "Magnetism", "Pressure"],
+                "answer": "Friction"
+            },
+            {
+                "question": "The SI unit of pressure is:",
+                "options": ["Newton", "Pascal", "Joule", "Watt"],
+                "answer": "Pascal"
+            },
+            {
+                "question": "The voice box in humans is called:",
+                "options": ["Larynx", "Trachea", "Pharynx", "Bronchus"],
+                "answer": "Larynx"
+            },
+            {
+                "question": "The outermost planet in our solar system is:",
+                "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+                "answer": "Neptune"
+            },
+            {
+                "question": "The chemical formula of common salt is:",
+                "options": ["NaCl", "NaOH", "NaHCO₃", "Na₂CO₃"],
+                "answer": "NaCl"
+            },
+            {
+                "question": "Which of these is NOT a greenhouse gas?",
+                "options": ["Carbon dioxide", "Methane", "Oxygen", "Nitrous oxide"],
+                "answer": "Oxygen"
+            },
+            {
+                "question": "The process by which plants make their food is called:",
+                "options": ["Respiration", "Photosynthesis", "Transpiration", "Fermentation"],
+                "answer": "Photosynthesis"
+            },
+            {
+                "question": "The smallest unit of life is:",
+                "options": ["Tissue", "Organ", "Cell", "Molecule"],
+                "answer": "Cell"
+            },
+            {
+                "question": "Which of these is a non-metal?",
+                "options": ["Iron", "Copper", "Sulphur", "Aluminium"],
+                "answer": "Sulphur"
+            },
+            {
+                "question": "The hardest natural substance is:",
+                "options": ["Iron", "Gold", "Diamond", "Graphite"],
+                "answer": "Diamond"
+            },
+            {
+                "question": "The number of chromosomes in human cells is:",
+                "options": ["23", "46", "64", "92"],
+                "answer": "46"
+            },
+            {
+                "question": "Which gland is called the master gland?",
+                "options": ["Thyroid", "Pituitary", "Pancreas", "Adrenal"],
+                "answer": "Pituitary"
+            },
+            {
+                "question": "The device used to measure atmospheric pressure is:",
+                "options": ["Thermometer", "Barometer", "Ammeter", "Voltmeter"],
+                "answer": "Barometer"
+            },
+            {
+                "question": "Which of these is a synthetic fiber?",
+                "options": ["Cotton", "Wool", "Silk", "Polyester"],
+                "answer": "Polyester"
+            },
+            {
+                "question": "The chemical name of baking soda is:",
+                "options": ["Sodium chloride", "Sodium hydroxide", "Sodium bicarbonate", "Sodium carbonate"],
+                "answer": "Sodium bicarbonate"
+            },
+            {
+                "question": "The process of conversion of water vapor into water is called:",
+                "options": ["Evaporation", "Condensation", "Sublimation", "Precipitation"],
+                "answer": "Condensation"
+            },
+            {
+                "question": "Which of these is NOT a part of the nervous system?",
+                "options": ["Brain", "Spinal cord", "Nerves", "Heart"],
+                "answer": "Heart"
+            },
+            {
+                "question": "The metal used in making electric wires is:",
+                "options": ["Iron", "Copper", "Aluminium", "Both B and C"],
+                "answer": "Both B and C"
+            },
+            {
+                "question": "The phenomenon of scattering of light by colloidal particles is called:",
+                "options": ["Reflection", "Refraction", "Tyndall effect", "Dispersion"],
+                "answer": "Tyndall effect"
+            },
+            {
+                "question": "The SI unit of electric current is:",
+                "options": ["Volt", "Ohm", "Ampere", "Watt"],
+                "answer": "Ampere"
+            },
+            {
+                "question": "Which of these is a communicable disease?",
+                "options": ["Diabetes", "Cancer", "Malaria", "Hypertension"],
+                "answer": "Malaria"
+            }
+        ]
+    },
+    {
+        "id": "class-9-maths",
+        "title": "Class 9 Mathematics (25 Questions)",
+        "questions": [
+            {
+                "question": "The decimal expansion of π (pi) is:",
+                "options": ["Terminating", "Non-terminating repeating", "Non-terminating non-repeating", "None"],
+                "answer": "Non-terminating non-repeating"
+            },
+            {
+                "question": "The graph of the linear equation 2x + 3y = 6 cuts the y-axis at:",
+                "options": ["(2,0)", "(3,0)", "(0,2)", "(0,3)"],
+                "answer": "(0,2)"
+            },
+            {
+                "question": "The coordinates of the origin are:",
+                "options": ["(0,0)", "(1,0)", "(0,1)", "(1,1)"],
+                "answer": "(0,0)"
+            },
+            {
+                "question": "The point (-3, 5) lies in which quadrant?",
+                "options": ["I", "II", "III", "IV"],
+                "answer": "II"
+            },
+            {
+                "question": "The remainder when x³ - 3x² + 3x - 1 is divided by x - 1 is:",
+                "options": ["0", "1", "-1", "2"],
+                "answer": "0"
+            },
+            {
+                "question": "The value of (2 + √3)(2 - √3) is:",
+                "options": ["1", "4", "7", "1 + 2√3"],
+                "answer": "1"
+            },
+            {
+                "question": "The sides of a triangle are 7cm, 24cm, 25cm. Its area is:",
+                "options": ["84 cm²", "87.5 cm²", "168 cm²", "300 cm²"],
+                "answer": "84 cm²"
+            },
+            {
+                "question": "The angles of a quadrilateral are in ratio 1:2:3:4. The largest angle is:",
+                "options": ["72°", "144°", "156°", "180°"],
+                "answer": "144°"
+            },
+            {
+                "question": "The surface area of a sphere of radius 7cm is:",
+                "options": ["154 cm²", "308 cm²", "462 cm²", "616 cm²"],
+                "answer": "616 cm²"
+            },
+            {
+                "question": "The probability of getting an even number when a die is rolled is:",
+                "options": ["1/6", "1/3", "1/2", "2/3"],
+                "answer": "1/2"
+            },
+            {
+                "question": "The diagonal of a cube with edge 5cm is:",
+                "options": ["5√2 cm", "5√3 cm", "10 cm", "15 cm"],
+                "answer": "5√3 cm"
+            },
+            {
+                "question": "The solution of 2x - 3 = x + 2 is:",
+                "options": ["1", "3", "5", "7"],
+                "answer": "5"
+            },
+            {
+                "question": "The value of √6 × √24 is:",
+                "options": ["6", "12", "18", "24"],
+                "answer": "12"
+            },
+            {
+                "question": "The number of lines that can pass through two distinct points is:",
+                "options": ["1", "2", "Infinite", "None"],
+                "answer": "1"
+            },
+            {
+                "question": "The coordinates of the point dividing the line joining (2,3) and (4,5) in ratio 1:1 is:",
+                "options": ["(3,4)", "(4,3)", "(5,6)", "(6,5)"],
+                "answer": "(3,4)"
+            },
+            {
+                "question": "The volume of a cone with radius 6cm and height 7cm is:",
+                "options": ["66 cm³", "132 cm³", "198 cm³", "264 cm³"],
+                "answer": "264 cm³"
+            },
+            {
+                "question": "The mean of first 10 natural numbers is:",
+                "options": ["5", "5.5", "6", "6.5"],
+                "answer": "5.5"
+            },
+            {
+                "question": "The polynomial x² - 2x + 1 is a:",
+                "options": ["Linear polynomial", "Quadratic polynomial", "Cubic polynomial", "None"],
+                "answer": "Quadratic polynomial"
+            },
+            {
+                "question": "The angle which is equal to its complement is:",
+                "options": ["30°", "45°", "60°", "90°"],
+                "answer": "45°"
+            },
+            {
+                "question": "The perimeter of an equilateral triangle with side 6cm is:",
+                "options": ["6 cm", "12 cm", "18 cm", "24 cm"],
+                "answer": "18 cm"
+            },
+            {
+                "question": "The value of (4⁰ + 4⁻¹) × 2² is:",
+                "options": ["1", "5", "16", "20"],
+                "answer": "5"
+            },
+            {
+                "question": "The rational number between 1/2 and 1/3 is:",
+                "options": ["2/5", "1/4", "5/6", "1/6"],
+                "answer": "2/5"
+            },
+            {
+                "question": "The mode of data: 5, 3, 7, 3, 5, 3, 2 is:",
+                "options": ["2", "3", "5", "7"],
+                "answer": "3"
+            },
+            {
+                "question": "The area of an equilateral triangle with side 4cm is:",
+                "options": ["4√3 cm²", "8 cm²", "8√3 cm²", "16 cm²"],
+                "answer": "4√3 cm²"
+            },
+            {
+                "question": "The sum of the angles of a polygon with 10 sides is:",
+                "options": ["1440°", "1620°", "1800°", "1980°"],
+                "answer": "1440°"
+            }
+        ]
+    },
+    {
+        "id": "class-9-science",
+        "title": "Class 9 Science (25 Questions)",
+        "questions": [
+            {
+                "question": "Which of these is NOT a state of matter?",
+                "options": ["Solid", "Liquid", "Gas", "Energy"],
+                "answer": "Energy"
+            },
+            {
+                "question": "The SI unit of force is:",
+                "options": ["Joule", "Newton", "Watt", "Pascal"],
+                "answer": "Newton"
+            },
+            {
+                "question": "The chemical symbol of gold is:",
+                "options": ["Ag", "Au", "Fe", "Hg"],
+                "answer": "Au"
+            },
+            {
+                "question": "Which of these is a mixture?",
+                "options": ["Water", "Salt", "Air", "Iron"],
+                "answer": "Air"
+            },
+            {
+                "question": "The process by which plants lose water is called:",
+                "options": ["Photosynthesis", "Transpiration", "Respiration", "Evaporation"],
+                "answer": "Transpiration"
+            },
+            {
+                "question": "The atomic number of carbon is:",
+                "options": ["6", "12", "14", "16"],
+                "answer": "6"
+            },
+            {
+                "question": "Which of these is NOT a part of the cell theory?",
+                "options": [
+                    "All living things are made of cells",
+                    "Cells are the basic unit of life",
+                    "All cells have a nucleus",
+                    "New cells come from existing cells"
+                ],
+                "answer": "All cells have a nucleus"
+            },
+            {
+                "question": "The disease caused by deficiency of Vitamin C is:",
+                "options": ["Scurvy", "Rickets", "Beri-Beri", "Night blindness"],
+                "answer": "Scurvy"
+            },
+            {
+                "question": "The tissue that transports food in plants is:",
+                "options": ["Xylem", "Phloem", "Epidermis", "Cambium"],
+                "answer": "Phloem"
+            },
+            {
+                "question": "The acceleration due to gravity on Earth is approximately:",
+                "options": ["9.8 m/s²", "8.9 m/s²", "7.6 m/s²", "6.7 m/s²"],
+                "answer": "9.8 m/s²"
+            },
+            {
+                "question": "Which of these is a vector quantity?",
+                "options": ["Mass", "Speed", "Distance", "Force"],
+                "answer": "Force"
+            },
+            {
+                "question": "The pH of a neutral solution is:",
+                "options": ["0", "7", "14", "Depends on the solution"],
+                "answer": "7"
+            },
+            {
+                "question": "The number of bones in an adult human body is approximately:",
+                "options": ["106", "206", "306", "406"],
+                "answer": "206"
+            },
+            {
+                "question": "The metal present in chlorophyll is:",
+                "options": ["Iron", "Magnesium", "Calcium", "Copper"],
+                "answer": "Magnesium"
+            },
+            {
+                "question": "The unit of electric current is:",
+                "options": ["Volt", "Ohm", "Ampere", "Watt"],
+                "answer": "Ampere"
+            },
+            {
+                "question": "Which of these is NOT a greenhouse gas?",
+                "options": ["Carbon dioxide", "Methane", "Oxygen", "Nitrous oxide"],
+                "answer": "Oxygen"
+            },
+            {
+                "question": "The process by which gas converts to liquid is called:",
+                "options": ["Evaporation", "Condensation", "Sublimation", "Freezing"],
+                "answer": "Condensation"
+            },
+            {
+                "question": "The largest gland in the human body is:",
+                "options": ["Pancreas", "Liver", "Thyroid", "Pituitary"],
+                "answer": "Liver"
+            },
+            {
+                "question": "The chemical formula of methane is:",
+                "options": ["CH₄", "C₂H₆", "CO₂", "H₂O"],
+                "answer": "CH₄"
+            },
+            {
+                "question": "Which of these is a communicable disease?",
+                "options": ["Diabetes", "Cancer", "Tuberculosis", "Hypertension"],
+                "answer": "Tuberculosis"
+            },
+            {
+                "question": "The SI unit of work is:",
+                "options": ["Newton", "Joule", "Watt", "Pascal"],
+                "answer": "Joule"
+            },
+            {
+                "question": "The process of cell division is called:",
+                "options": ["Respiration", "Photosynthesis", "Mitosis", "Transpiration"],
+                "answer": "Mitosis"
+            },
+            {
+                "question": "The element with atomic number 1 is:",
+                "options": ["Helium", "Hydrogen", "Lithium", "Oxygen"],
+                "answer": "Hydrogen"
+            },
+            {
+                "question": "The lens present in the human eye is:",
+                "options": ["Concave", "Convex", "Bifocal", "Cylindrical"],
+                "answer": "Convex"
+            },
+            {
+                "question": "The chemical used in fire extinguishers is:",
+                "options": ["Sodium chloride", "Sodium bicarbonate", "Calcium carbonate", "Magnesium sulphate"],
+                "answer": "Sodium bicarbonate"
+            }
+        ]
+    },
+    {
+        "id": "class-10-maths",
+        "title": "Class 10 Mathematics (25 Questions)",
+        "questions": [
+            {
+                "question": "The HCF of 96 and 404 is:",
+                "options": ["4", "8", "12", "16"],
+                "answer": "4"
+            },
+            {
+                "question": "The zeroes of the polynomial x² - 3x + 2 are:",
+                "options": ["1,2", "-1,-2", "1,-2", "-1,2"],
+                "answer": "1,2"
+            },
+            {
+                "question": "The pair of equations x + 2y = 5 and 3x + 6y = 15 has:",
+                "options": [
+                    "Unique solution",
+                    "No solution",
+                    "Infinitely many solutions",
+                    "Two solutions"
+                ],
+                "answer": "Infinitely many solutions"
+            },
+            {
+                "question": "The sum of first n natural numbers is:",
+                "options": ["n(n+1)/2", "n(n-1)/2", "n²", "2n"],
+                "answer": "n(n+1)/2"
+            },
+            {
+                "question": "The discriminant of the quadratic equation x² - 4x + 4 = 0 is:",
+                "options": ["-12", "0", "12", "16"],
+                "answer": "0"
+            },
+            {
+                "question": "The common difference of the AP: 3, 1, -1, -3,... is:",
+                "options": ["1", "2", "-1", "-2"],
+                "answer": "-2"
+            },
+            {
+                "question": "The ratio in which the point (2,3) divides the line segment joining (4,5) and (6,7) is:",
+                "options": ["1:1", "1:2", "2:1", "3:1"],
+                "answer": "1:1"
+            },
+            {
+                "question": "The area of a circle with diameter 14cm is:",
+                "options": ["44 cm²", "88 cm²", "154 cm²", "616 cm²"],
+                "answer": "154 cm²"
+            },
+            {
+                "question": "The probability of getting a prime number when a die is rolled is:",
+                "options": ["1/6", "1/3", "1/2", "2/3"],
+                "answer": "1/2"
+            },
+            {
+                "question": "The value of sin²30° + cos²30° is:",
+                "options": ["0", "1/2", "3/4", "1"],
+                "answer": "1"
+            },
+            {
+                "question": "The volume of a sphere with radius 3cm is:",
+                "options": ["12π cm³", "27π cm³", "36π cm³", "108π cm³"],
+                "answer": "36π cm³"
+            },
+            {
+                "question": "The length of the tangent from a point 5cm away from the center of a circle of radius 3cm is:",
+                "options": ["2 cm", "3 cm", "4 cm", "5 cm"],
+                "answer": "4 cm"
+            },
+            {
+                "question": "The mode of the data: 3, 5, 7, 3, 5, 3, 2 is:",
+                "options": ["2", "3", "5", "7"],
+                "answer": "3"
+            },
+            {
+                "question": "The sum of the angles of a triangle is:",
+                "options": ["90°", "180°", "270°", "360°"],
+                "answer": "180°"
+            },
+            {
+                "question": "The coordinates of the centroid of a triangle with vertices (0,0), (4,0), (2,3) are:",
+                "options": ["(2,1)", "(2,2)", "(2,3)", "(4,3)"],
+                "answer": "(2,1)"
+            },
+            {
+                "question": "The value of tan 45° is:",
+                "options": ["0", "1", "√3", "-1"],
+                "answer": "1"
+            },
+            {
+                "question": "The area of a triangle with base 10cm and height 5cm is:",
+                "options": ["25 cm²", "50 cm²", "75 cm²", "100 cm²"],
+                "answer": "25 cm²"
+            },
+            {
+                "question": "The roots of the equation x² - 5x + 6 = 0 are:",
+                "options": ["-2, -3", "-2, 3", "-3, 2", "-1, 6"],
+                "answer": "-2, -3"
+            },
+            {
+                "question": "The circumference of a circle with radius 7cm is:",
+                "options": ["14π cm", "21π cm", "28π cm", "49π cm"],
+                "answer": "14π cm"
+            },
+            {
+                "question": "The sum of the first five prime numbers is:",
+                "options": ["10", "20", "28", "30"],
+                "answer": "28"
+            },
+            {
+                "question": "The distance between the points (3,4) and (7,1) is:",
+                "options": ["5", "-5", "-4", "-3"],
+                "answer": "-5"
+            }
+        ]
+    }
+]

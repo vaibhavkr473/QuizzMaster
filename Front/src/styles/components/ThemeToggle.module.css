@@ -1,0 +1,69 @@
+.themeToggle {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  width: 45px !important;
+  height: 45px !important;
+  padding: 12px;
+  border-radius: 50% !important;
+  transition: all 0.3s ease-in-out !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15) !important;
+}
+
+.themeToggle:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2) !important;
+}
+
+.themeToggle::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  padding: 2px;
+  background: linear-gradient(45deg, #fff3, #fff6);
+  -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
+  -webkit-mask-composite: xor;
+  mask-composite: exclude;
+  pointer-events: none;
+  transition: all 0.3s ease-in-out;
+  opacity: 0.8;
+}
+
+.themeToggle:hover::before {
+  opacity: 1;
+  transform: scale(1.1);
+}
+
+.toggleWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.switchTrack {
+  width: 64px;
+  height: 32px;
+  background-color: #f1c40f;
+  border-radius: 16px;
+  padding: 2px;
+  cursor: pointer;
+  position: relative;
+  transition: background-color 0.3s ease;
+}
+
+.switchThumb {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.icon {
+  color: white;
+  font-size: 16px !important;
+  filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.1));
+}

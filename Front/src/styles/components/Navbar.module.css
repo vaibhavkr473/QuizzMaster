@@ -1,0 +1,165 @@
+.navbar {
+  background: linear-gradient(90deg, #1a237e, #0d47a1);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1100;
+}
+
+.title {
+  flex-grow: 1;
+}
+
+.link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.brand {
+  font-weight: 700;
+  background: linear-gradient(45deg, #fff, #e3f2fd);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  text-decoration: none;
+  margin-right: auto; /* Ensures logo stays on left */
+}
+
+.navButton {
+  border-radius: 20px;
+  padding: 6px 16px;
+  transition: all 0.3s ease;
+}
+
+.navButton:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  transform: translateY(-2px);
+}
+
+.userButton {
+  border-radius: 20px;
+  padding: 6px 16px;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.userButton:hover {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+.themeToggle {
+  transition: transform 0.3s ease;
+}
+
+.themeToggle:hover {
+  transform: rotate(180deg);
+}
+
+.loginButton {
+  border: 1px solid white;
+  border-radius: 20px;
+  padding: 6px 16px;
+}
+
+.userMenu {
+  margin-top: 8px;
+}
+
+.userMenu .MuiMenuItem-root {
+  padding: 8px 16px;
+}
+
+.userMenu .MuiListItemIcon-root {
+  min-width: 36px;
+}
+
+.mobileMenuButton {
+  display: none;
+}
+
+/* Add padding to body to account for fixed navbar */
+:global(body) {
+  padding-top: 64px; /* Height of navbar */
+}
+
+.toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 16px;
+  min-height: 64px;
+  width: 100%;
+}
+
+/* Update the drawer width styles */
+.drawer {
+  width: 250px;
+  background-color: var(--mui-palette-background-paper);
+}
+
+.drawer :global(.MuiListItem-root) {
+  margin: 4px 0;
+  padding: 8px 16px;
+}
+
+.drawer :global(.MuiListItemIcon-root) {
+  min-width: 40px;
+}
+
+@media (max-width: 768px) {
+  .navButton,
+  .userButton,
+  .loginButton {
+    display: none;
+  }
+
+  .mobileMenuButton {
+    display: block;
+  }
+
+  .brand {
+    font-size: 1.1rem;
+    max-width: 150px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-left: 10px;
+  }
+
+  .navbar {
+    padding: 0 8px;
+    position: relative;
+  }
+
+  .toolbar {
+    padding: 0 8px;
+    min-height: 56px; /* Touch-friendly height */
+  }
+
+  :global(body) {
+    padding-top: 56px;
+  }
+
+  /* Update drawer width for mobile */
+  .drawer {
+    width: 70vw;
+    max-width: 280px;
+  }
+}
+
+@supports (padding-top: env(safe-area-inset-top)) {
+  .navbar {
+    padding-top: env(safe-area-inset-top);
+  }
+  
+  :global(body) {
+    padding-top: calc(64px + env(safe-area-inset-top));
+  }
+  
+  @media (max-width: 768px) {
+    :global(body) {
+      padding-top: calc(56px + env(safe-area-inset-top));
+    }
+  }
+}

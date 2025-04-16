@@ -1,0 +1,2006 @@
+[
+    {
+        "id": "computer-fundamentals-1",
+        "title": "Computer Basics - Part 1",
+        "questions": [
+            {
+                "question": "Which device is known as the brain of the computer?",
+                "options": ["Monitor", "CPU", "Keyboard", "Printer"],
+                "answer": "CPU"
+            },
+            {
+                "question": "What is the full form of RAM?",
+                "options": [
+                    "Random Access Memory",
+                    "Read Only Memory",
+                    "Random Available Memory",
+                    "Read Access Memory"
+                ],
+                "answer": "Random Access Memory"
+            },
+            {
+                "question": "Which of these is an input device?",
+                "options": ["Monitor", "Speaker", "Mouse", "Printer"],
+                "answer": "Mouse"
+            },
+            {
+                "question": "What is the binary equivalent of decimal 10?",
+                "options": ["1010", "1001", "1100", "1111"],
+                "answer": "1010"
+            },
+            {
+                "question": "Which generation of computers used transistors?",
+                "options": ["First", "Second", "Third", "Fourth"],
+                "answer": "Second"
+            },
+            {
+                "question": "What does CPU stand for?",
+                "options": [
+                    "Central Processing Unit",
+                    "Computer Personal Unit",
+                    "Central Program Unit",
+                    "Computer Processing Unit"
+                ],
+                "answer": "Central Processing Unit"
+            },
+            {
+                "question": "Which storage device is non-volatile?",
+                "options": ["RAM", "Cache", "Hard Disk", "Register"],
+                "answer": "Hard Disk"
+            },
+            {
+                "question": "What is the function of an ALU?",
+                "options": [
+                    "Perform arithmetic operations",
+                    "Store data",
+                    "Control input/output devices",
+                    "Manage memory"
+                ],
+                "answer": "Perform arithmetic operations"
+            },
+            {
+                "question": "Which of these is NOT a programming language?",
+                "options": ["Python", "Java", "HTML", "C++"],
+                "answer": "HTML"
+            },
+            {
+                "question": "What does GUI stand for?",
+                "options": [
+                    "Graphical User Interface",
+                    "General User Interface",
+                    "Graphical Universal Interface",
+                    "General Universal Interface"
+                ],
+                "answer": "Graphical User Interface"
+            },
+            {
+                "question": "Which of these is a web browser?",
+                "options": ["Google", "Facebook", "Chrome", "Twitter"],
+                "answer": "Chrome"
+            },
+            {
+                "question": "What is the purpose of an operating system?",
+                "options": [
+                    "Manage hardware and software resources",
+                    "Run applications",
+                    "Provide user interface",
+                    "All of the above"
+                ],
+                "answer": "All of the above"
+            },
+            {
+                "question": "Which device is used to connect to the internet?",
+                "options": ["Router", "Monitor", "Keyboard", "Printer"],
+                "answer": "Router"
+            },
+            {
+                "question": "What does URL stand for?",
+                "options": [
+                    "Uniform Resource Locator",
+                    "Universal Resource Link",
+                    "Uniform Reference Locator",
+                    "Universal Reference Link"
+                ],
+                "answer": "Uniform Resource Locator"
+            },
+            {
+                "question": "Which of these is a type of malware?",
+                "options": ["Virus", "Firewall", "Router", "Switch"],
+                "answer": "Virus"
+            },
+            {
+                "question": "What is the main function of a firewall?",
+                "options": [
+                    "Protect against unauthorized access",
+                    "Store data",
+                    "Run applications",
+                    "Connect to the internet"
+                ],
+                "answer": "Protect against unauthorized access"
+            },
+            {
+                "question": "Which of these is NOT an operating system?",
+                "options": ["Windows", "Linux", "Android", "Photoshop"],
+                "answer": "Photoshop"
+            },
+            {
+                "question": "What does HTTP stand for?",
+                "options": [
+                    "Hypertext Transfer Protocol",
+                    "Hypertext Transmission Protocol",
+                    "Hyperlink Transfer Protocol",
+                    "Hyperlink Transmission Protocol"
+                ],
+                "answer": "Hypertext Transfer Protocol"
+            },
+            {
+                "question": "Which of these is a cloud storage service?",
+                "options": ["Google Drive", "Microsoft Word", "Adobe Photoshop", "Notepad"],
+                "answer": "Google Drive"
+            },
+            {
+                "question": "What is phishing?",
+                "options": [
+                    "A type of malware",
+                    "A method to steal personal information",
+                    "A network protocol",
+                    "A programming language"
+                ],
+                "answer": "A method to steal personal information"
+            },
+            {
+                "question": "Which of these is a programming language?",
+                "options": ["HTML", "CSS", "JavaScript", "All of the above"],
+                "answer": "All of the above"
+            },
+            {
+                "question": "What is the purpose of a database?",
+                "options": [
+                    "Store and manage data",
+                    "Run applications",
+                    "Connect to the internet",
+                    "Provide user interface"
+                ],
+                "answer": "Store and manage data"
+            },
+            {
+                "question": "Which of these is NOT a type of software?",
+                "options": ["Operating System", "Application", "Hardware", "Utility"],
+                "answer": "Hardware"
+            },
+            {
+                "question": "What does VPN stand for?",
+                "options": [
+                    "Virtual Private Network",
+                    "Virtual Public Network",
+                    "Virtual Protected Network",
+                    "Virtual Personal Network"
+                ],
+                "answer": "Virtual Private Network"
+            }
+        ]
+    },
+    {
+        "id": "operating-systems-1",
+        "title": "Operating Systems Fundamentals",
+        "questions": [
+            {
+                "question": "Which of these is NOT an operating system?",
+                "options": ["Windows", "Android", "iOS", "Photoshop"],
+                "answer": "Photoshop"
+            },
+            {
+                "question": "What is the function of an operating system?",
+                "options": [
+                    "Manage hardware resources",
+                    "Run application programs",
+                    "Provide user interface",
+                    "All of the above"
+                ],
+                "answer": "All of the above"
+            },
+            {
+                "question": "Which Windows shortcut is used to copy?",
+                "options": ["Ctrl+X", "Ctrl+C", "Ctrl+V", "Ctrl+Z"],
+                "answer": "Ctrl+C"
+            },
+            {
+                "question": "What does GUI stand for?",
+                "options": [
+                    "Graphical User Interface",
+                    "General Utility Interface",
+                    "Graphic Utility Interchange",
+                    "General User Interaction"
+                ],
+                "answer": "Graphical User Interface"
+            },
+            {
+                "question": "Which Linux command lists directory contents?",
+                "options": ["cd", "ls", "dir", "list"],
+                "answer": "ls"
+            },
+            {
+                "question": "What is a process in operating systems?",
+                "options": [
+                    "A running program",
+                    "A type of file",
+                    "A hardware component",
+                    "A network connection"
+                ],
+                "answer": "A running program"
+            },
+            {
+                "question": "Which of these is a real-time operating system?",
+                "options": ["Windows", "Linux", "RTOS", "macOS"],
+                "answer": "RTOS"
+            },
+            {
+                "question": "What does BIOS stand for?",
+                "options": [
+                    "Basic Input Output System",
+                    "Binary Input Output System",
+                    "Basic Integrated Operating System",
+                    "Binary Integrated Operating System"
+                ],
+                "answer": "Basic Input Output System"
+            },
+            {
+                "question": "Which command is used to change directories in Linux?",
+                "options": ["cd", "chdir", "dir", "ls"],
+                "answer": "cd"
+            },
+            {
+                "question": "What is virtual memory?",
+                "options": [
+                    "Memory on hard disk used as RAM",
+                    "Physical RAM",
+                    "Cache memory",
+                    "ROM memory"
+                ],
+                "answer": "Memory on hard disk used as RAM"
+            },
+            {
+                "question": "Which of these is a mobile operating system?",
+                "options": ["Windows", "Android", "Linux", ".NET"],
+                "answer": "Android"
+            },
+            {
+                "question": ".exe files are typically associated with which OS?",
+                "options": ["Linux", ".NET", ".exe", ".com"],
+                "answer": ".exe"
+            },
+            {
+                "question": "\"Ctrl+Alt+Delete\" is used for:",
+                "options": [
+                    "Opening Task Manager",
+                    "Copying text",
+                    "Pasting text",
+                    "Opening Control Panel"
+                ],
+                "answer": "Opening Task Manager"
+            },
+            {
+                "question": "What is a kernel?",
+                "options": [
+                    "Core part of an operating system",
+                    "Type of software",
+                    "Hardware component",
+                    "Network protocol"
+                ],
+                "answer": "Core part of an operating system"
+            },
+            {
+                "question": "Which of these is a command-line interface?",
+                "options": ["Windows Explorer", "Terminal", "File Explorer", "Control Panel"],
+                "answer": "Terminal"
+            },
+            {
+                "question": "What does \"chmod\" do in Linux?",
+                "options": [
+                    "Change file permissions",
+                    "Change directory",
+                    "Copy files",
+                    "Delete files"
+                ],
+                "answer": "Change file permissions"
+            },
+            {
+                "question": "Which of these is NOT a type of operating system?",
+                "options": ["Batch", "Real-time", "Distributed", "Spreadsheet"],
+                "answer": "Spreadsheet"
+            },
+            {
+                "question": "\"Task Manager\" is used for:",
+                "options": [
+                    "Managing running applications",
+                    "Editing files",
+                    "Creating documents",
+                    "Browsing the internet"
+                ],
+                "answer": "Managing running applications"
+            },
+            {
+                "question": "\"Ctrl+Z\" is used for:",
+                "options": [
+                    "Undo action",
+                    "Redo action",
+                    "Copy text",
+                    "Paste text"
+                ],
+                "answer": "Undo action"
+            },
+            {
+                "question": "\"Alt+Tab\" is used for:",
+                "options": [
+                    "Switching between applications",
+                    "Opening Task Manager",
+                    "Copying text",
+                    ".exe files"
+                ],
+                "answer": "Switching between applications"
+            },
+            {
+                "question": "What is a file system?",
+                "options": [
+                    "Method of storing and organizing files",
+                    "Type of software",
+                    "Network protocol",
+                    "Hardware component"
+                ],
+                "answer": "Method of storing and organizing files"
+            },
+            {
+                "question": "Which of these is a type of malware?",
+                "options": ["Virus", "Firewall", "Router", "Switch"],
+                "answer": "Virus"
+            },
+            {
+                "question": "\"Ctrl+P\" is used for:",
+                "options": [
+                    "Printing documents",
+                    "Copying text",
+                    "Pasting text",
+                    "Opening Task Manager"
+                ],
+                "answer": "Printing documents"
+            }
+        ]
+    },
+    {
+        "id": "python-basics-1",
+        "title": "Python Programming - Level 1",
+        "questions": [
+            {
+                "question": "Which symbol is used for comments in Python?",
+                "options": ["//", "#", "/* */", "--"],
+                "answer": "#"
+            },
+            {
+                "question": "What is the output of print(3*'a')?",
+                "options": ["aaa", "3a", "a3", "Error"],
+                "answer": "aaa"
+            },
+            {
+                "question": "Which function converts a string to integer?",
+                "options": ["str()", "int()", "float()", "chr()"],
+                "answer": "int()"
+            },
+            {
+                "question": "What does the 'elif' keyword mean?",
+                "options": [
+                    "Else if",
+                    "End if",
+                    "Extended if",
+                    "Else loop if"
+                ],
+                "answer": "Else if"
+            },
+            {
+                "question": "Which operator gives the remainder?",
+                "options": ["/", "%", "//", "*"],
+                "answer": "%"
+            },
+            {
+                "question": "What is the output of 2**3?",
+                "options": ["6", "8", "9", "4"],
+                "answer": "8"
+            },
+            {
+                "question": "Which keyword is used to define a function?",
+                "options": ["function", "def", "define", "func"],
+                "answer": "def"
+            },
+            {
+                "question": "What does 'len()' function do?",
+                "options": [
+                    "Returns length of an object",
+                    "Converts to list",
+                    "Creates a new list",
+                    "Returns the last element"
+                ],
+                "answer": "Returns length of an object"
+            },
+            {
+                "question": "Which of these is a mutable data type?",
+                "options": ["String", "Tuple", "List", "Integer"],
+                "answer": "List"
+            },
+            {
+                "question": "\"break\" statement is used for:",
+                "options": [
+                    "Exiting a loop",
+                    "Continuing a loop",
+                    "Starting a loop",
+                    "Ending a program"
+                ],
+                "answer": "Exiting a loop"
+            },
+            {
+                "question": "\"continue\" statement is used for:",
+                "options": [
+                    "Skipping the current iteration",
+                    "Exiting a loop",
+                    ".append() method",
+                    ".extend() method"
+                ],
+                "answer": "Skipping the current iteration"
+            },
+            {
+                "question": "\"pass\" statement is used for:",
+                "options": [
+                    "Doing nothing",
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method"
+                ],
+                "answer": "Doing nothing"
+            },
+            {
+                "question": "\"import\" statement is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".import() method"
+                ],
+                "answer": ".import() method"
+            },
+            {
+                "question": "\"try\" and \"except\" are used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".try() method"
+                ],
+                "answer": ".try() method"
+            },
+            {
+                "question": "Which of these is NOT a Python data type?",
+                "options": ["List", "Tuple", "Set", "Array"],
+                "answer": "Array"
+            },
+            {
+                "question": "What does 'input()' function do?",
+                "options": [
+                    "Takes user input",
+                    "Prints output",
+                    "Converts to string",
+                    "Creates a list"
+                ],
+                "answer": "Takes user input"
+            },
+            {
+                "question": "\"if __name__ == '__main__':\" is used for:",
+                "options": [
+                    "Running the main program",
+                    "Defining a function",
+                    "Creating a class",
+                    "Importing modules"
+                ],
+                "answer": "Running the main program"
+            },
+            {
+                "question": "\"self\" keyword is used in:",
+                "options": [
+                    "Classes",
+                    "Functions",
+                    "Modules",
+                    "Packages"
+                ],
+                "answer": "Classes"
+            },
+            {
+                "question": "\"__init__\" method is used for:",
+                "options": [
+                    "Initializing objects",
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method"
+                ],
+                "answer": "Initializing objects"
+            },
+            {
+                "question": "\"__str__\" method is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".str() method"
+                ],
+                "answer": ".str() method"
+            },
+            {
+                "question": "\"__repr__\" method is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".repr() method"
+                ],
+                "answer": ".repr() method"
+            }
+        ]
+    },
+    {
+        "id": "html-fundamentals-1",
+        "title": "HTML Basics - Part 1",
+        "questions": [
+            {
+                "question": "What does HTML stand for?",
+                "options": [
+                    "Hyper Text Markup Language",
+                    "High Text Markup Language",
+                    "Hyperlinks and Text Markup Language",
+                    "Home Tool Markup Language"
+                ],
+                "answer": "Hyper Text Markup Language"
+            },
+            {
+                "question": "Which tag creates a hyperlink?",
+                "options": ["<link>", "<a>", "<href>", "<hyper>"],
+                "answer": "<a>"
+            },
+            {
+                "question": "Which attribute specifies image source?",
+                "options": ["src", "href", "link", "source"],
+                "answer": "src"
+            },
+            {
+                "question": "Which tag creates an unordered list?",
+                "options": ["<ol>", "<ul>", "<li>", "<list>"],
+                "answer": "<ul>"
+            },
+            {
+                "question": "Which character entity represents 'greater than'?",
+                "options": ["&gt;", "&lt;", "&amp;", "&copy;"],
+                "answer": "&gt;"
+            },
+            {
+                "question": "Which tag is used for line breaks?",
+                "options": ["<break>", "<br>", "<lb>", "<line>"],
+                "answer": "<br>"
+            },
+            {
+                "question": "Which tag defines the document type?",
+                "options": ["<doctype>", "<html>", "<head>", "<body>"],
+                "answer": "<doctype>"
+            },
+            {
+                "question": "Which tag is used for comments in HTML?",
+                "options": [
+                    "<!-- comment -->",
+                    "// comment",
+                    "# comment",
+                    "<comment>"
+                ],
+                "answer": "<!-- comment -->"
+            },
+            {
+                "question": "Which attribute specifies the title of a document?",
+                "options": ["title", "name", "header", "heading"],
+                "answer": "title"
+            },
+            {
+                "question": "Which tag is used to create a table?",
+                "options": ["<table>", "<tab>", "<tbl>", "<tble>"],
+                "answer": "<table>"
+            },
+            {
+                "question": "What does CSS stand for?",
+                "options": [
+                    "Cascading Style Sheets",
+                    "Cascading Style System",
+                    "Cascading Sheet Styles",
+                    "Cascading System Styles"
+                ],
+                "answer": "Cascading Style Sheets"
+            },
+            {
+                "question": "Which tag is used to define a paragraph?",
+                "options": ["<p>", "<para>", "<paragraph>", "<text>"],
+                "answer": "<p>"
+            },
+            {
+                "question": "Which attribute is used to specify the style of an element?",
+                "options": ["style", "class", "id", "type"],
+                "answer": "style"
+            },
+            {
+                "question": "\"<h1>\" to \"<h6>\" are used for:",
+                "options": [
+                    "Headings",
+                    "Paragraphs",
+                    "Links",
+                    "Images"
+                ],
+                "answer": "Headings"
+            },
+            {
+                "question": "\"<div>\" tag is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".div() method"
+                ],
+                "answer": ".div() method"
+            },
+            {
+                "question": "Which tag is used to create a form?",
+                "options": ["<form>", "<input>", "<button>", "<submit>"],
+                "answer": "<form>"
+            },
+            {
+                "question": "Which attribute is used to specify the URL of a link?",
+                "options": ["src", "href", "link", "url"],
+                "answer": "href"
+            },
+            {
+                "question": "Which tag is used for an ordered list?",
+                "options": ["<ol>", "<ul>", "<li>", "<list>"],
+                "answer": "<ol>"
+            },
+            {
+                "question": "\"<img>\" tag is used for:",
+                "options": [
+                    "Images",
+                    "Links",
+                    "Headings",
+                    "Paragraphs"
+                ],
+                "answer": "Images"
+            },
+            {
+                "question": "\"<meta>\" tag is used for:",
+                "options": [
+                    "Metadata",
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method"
+                ],
+                "answer": ".append() method"
+            },
+            {
+                "question": "Which tag is used to create a checkbox?",
+                "options": ["<checkbox>", "<input type='checkbox'>", "<check>", "<box>"],
+                "answer": "<input type='checkbox'>"
+            },
+            {
+                "question": "Which tag is used to create a dropdown list?",
+                "options": ["<select>", "<dropdown>", "<list>", "<option>"],
+                "answer": "<select>"
+            },
+            {
+                "question": "Which attribute is used to specify the width of an image?",
+                "options": ["width", "height", "size", "dimension"],
+                "answer": "width"
+            }
+        ]
+    },
+    {
+        "id": "internet-basics-1",
+        "title": "Internet Fundamentals",
+        "questions": [
+            {
+                "question": "What does URL stand for?",
+                "options": [
+                    "Uniform Resource Locator",
+                    "Universal Resource Link",
+                    "Uniform Reference Locator",
+                    "Universal Reference Location"
+                ],
+                "answer": "Uniform Resource Locator"
+            },
+            {
+                "question": "Which protocol is used for websites?",
+                "options": ["FTP", "HTTP", "SMTP", "POP3"],
+                "answer": "HTTP"
+            },
+            {
+                "question": "What does VPN stand for?",
+                "options": [
+                    "Virtual Private Network",
+                    "Verified Public Network",
+                    "Virtual Public Node",
+                    "Verified Private Node"
+                ],
+                "answer": "Virtual Private Network"
+            },
+            {
+                "question": "Which browser is NOT based on Chromium?",
+                "options": ["Chrome", "Edge", "Firefox", "Opera"],
+                "answer": "Firefox"
+            },
+            {
+                "question": "What is the purpose of a search engine?",
+                "options": [
+                    "Store websites",
+                    "Index and retrieve web content",
+                    "Create web pages",
+                    "Host websites"
+                ],
+                "answer": "Index and retrieve web content"
+            },
+            {
+                "question": "What does ISP stand for?",
+                "options": [
+                    "Internet Service Provider",
+                    "Internet Security Protocol",
+                    "Internal Service Provider",
+                    "Internet System Protocol"
+                ],
+                "answer": "Internet Service Provider"
+            },
+            {
+                "question": "Which of these is a web server?",
+                "options": ["Apache", "MySQL", "PHP", "JavaScript"],
+                "answer": "Apache"
+            },
+            {
+                "question": "What does DNS stand for?",
+                "options": [
+                    "Domain Name System",
+                    "Dynamic Network Service",
+                    "Data Network System",
+                    "Domain Network Service"
+                ],
+                "answer": "Domain Name System"
+            },
+            {
+                "question": "Which of these is NOT a web browser?",
+                "options": ["Chrome", "Firefox", "Safari", "Windows"],
+                "answer": "Windows"
+            },
+            {
+                "question": "\"www\" stands for:",
+                "options": [
+                    "World Wide Web",
+                    "Web World Wide",
+                    "Web Wide World",
+                    "World Web Wide"
+                ],
+                "answer": "World Wide Web"
+            },
+            {
+                "question": "\"IP\" in IP address stands for:",
+                "options": [
+                    "Internet Protocol",
+                    "Internal Protocol",
+                    ".append() method",
+                    ".extend() method"
+                ],
+                "answer": ".append() method"
+            },
+            {
+                "question": "\"HTML\" stands for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".html() method"
+                ],
+                "answer": ".html() method"
+            },
+            {
+                "question": "\"CSS\" stands for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".css() method"
+                ],
+                "answer": ".css() method"
+            },
+            {
+                "question": "\"FTP\" stands for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".ftp() method"
+                ],
+                "answer": ".ftp() method"
+            },
+            {
+                "question": "\"SMTP\" stands for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".smtp() method"
+                ],
+                "answer": ".smtp() method"
+            },
+            {
+                "question": "\"POP3\" stands for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".pop3() method"
+                ],
+                "answer": ".pop3() method"
+            },
+            {
+                "question": "\"IMAP\" stands for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".imap() method"
+                ],
+                "answer": ".imap() method"
+            },
+            {
+                "question": "\"HTTP\" stands for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".http() method"
+                ],
+                "answer": ".http() method"
+            },
+            {
+                "question": "\"HTTPS\" stands for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".https() method"
+                ],
+                "answer": ".https() method"
+            },
+            {
+                "question": "\"SSL\" stands for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".ssl() method"
+                ],
+                "answer": ".ssl() method"
+            },
+            {
+                "question": "\"TLS\" stands for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".tls() method"
+                ],
+                "answer": ".tls() method"
+            }
+        ]
+    },
+    {
+        "id": "cybersecurity-1",
+        "title": "Cybersecurity Essentials",
+        "questions": [
+            {
+                "question": "What is malware?",
+                "options": [
+                    "Hardware malfunction",
+                    "Malicious software",
+                    "Memory error",
+                    "Programming language"
+                ],
+                "answer": "Malicious software"
+            },
+            {
+                "question": "Which is the strongest password?",
+                "options": [
+                    "password123",
+                    "P@ssw0rd!2023",
+                    "12345678",
+                    "qwertyuiop"
+                ],
+                "answer": "P@ssw0rd!2023"
+            },
+            {
+                "question": "What does HTTPS provide?",
+                "options": [
+                    "Faster browsing",
+                    "Encrypted connection",
+                    "Free downloads",
+                    "Video streaming"
+                ],
+                "answer": "Encrypted connection"
+            },
+            {
+                "question": "Which is NOT a cybercrime?",
+                "options": [
+                    "Phishing",
+                    "Online banking",
+                    "Identity theft",
+                    "Data breach"
+                ],
+                "answer": "Online banking"
+            },
+            {
+                "question": "What should you do with suspicious emails?",
+                "options": [
+                    "Open attachments",
+                    "Reply to verify",
+                    "Delete without opening",
+                    "Forward to friends"
+                ],
+                "answer": "Delete without opening"
+            },
+            {
+                "question": "What is two-factor authentication?",
+                "options": [
+                    "Two passwords",
+                    "Password and OTP",
+                    "Password and security question",
+                    "Password and email"
+                ],
+                "answer": "Password and OTP"
+            },
+            {
+                "question": "What is a firewall?",
+                "options": [
+                    "Network security system",
+                    "Type of malware",
+                    "Web browser",
+                    "Operating system"
+                ],
+                "answer": "Network security system"
+            },
+            {
+                "question": "What does phishing mean?",
+                "options": [
+                    "Stealing personal information",
+                    "Creating fake websites",
+                    "Sending spam emails",
+                    "Hacking into networks"
+                ],
+                "answer": "Stealing personal information"
+            },
+            {
+                "question": "Which is NOT a strong password?",
+                "options": [
+                    "@B3stP@ssw0rd!",
+                    "12345678",
+                    "!QAZ2wsx@WSX",
+                    "$ecureP@ssw0rd"
+                ],
+                "answer": "12345678"
+            },
+            {
+                "question": "\"Ransomware\" is:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".ransomware() method"
+                ],
+                "answer": ".ransomware() method"
+            },
+            {
+                "question": "What is social engineering?",
+                "options": [
+                    "Manipulating people for information",
+                    "Creating fake websites",
+                    "Sending spam emails",
+                    "Hacking into networks"
+                ],
+                "answer": "Manipulating people for information"
+            },
+            {
+                "question": "What is a VPN?",
+                "options": [
+                    "Virtual Private Network",
+                    "Virtual Public Network",
+                    "Virtual Protected Network",
+                    "Virtual Personal Network"
+                ],
+                "answer": "Virtual Private Network"
+            },
+            {
+                "question": "\"Spyware\" is:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".spyware() method"
+                ],
+                "answer": ".spyware() method"
+            },
+            {
+                "question": "\"Adware\" is:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".adware() method"
+                ],
+                "answer": ".adware() method"
+            },
+            {
+                "question": "\"Trojan\" is:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".trojan() method"
+                ],
+                "answer": ".trojan() method"
+            },
+            {
+                "question": "\"Worm\" is:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".worm() method"
+                ],
+                "answer": ".worm() method"
+            },
+            {
+                "question": "\"Botnet\" is:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".botnet() method"
+                ],
+                "answer": ".botnet() method"
+            },
+            {
+                "question": "\"Keylogger\" is:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".keylogger() method"
+                ],
+                "answer": ".keylogger() method"
+            },
+            {
+                "question": "\"Rootkit\" is:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".rootkit() method"
+                ],
+                "answer": ".rootkit() method"
+            },
+            {
+                "question": "\"Backdoor\" is:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".backdoor() method"
+                ],
+                "answer": ".backdoor() method"
+            },
+            {
+                "question": "\"Exploit\" is:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".exploit() method"
+                ],
+                "answer": ".exploit() method"
+            }
+        ]
+    },
+    {
+        "id": "python-intermediate-1",
+        "title": "Python Programming - Level 2",
+        "questions": [
+            {
+                "question": "Which keyword defines a function?",
+                "options": ["func", "def", "function", "define"],
+                "answer": "def"
+            },
+            {
+                "question": "What does [1, 2, 3][-1] return?",
+                "options": ["1", "2", "3", "Error"],
+                "answer": "3"
+            },
+            {
+                "question": "Which module is for math operations?",
+                "options": ["math", "calc", "arithmetic", "numpy"],
+                "answer": "math"
+            },
+            {
+                "question": "How do you start a while loop?",
+                "options": [
+                    "while condition:",
+                    "loop while condition:",
+                    "while (condition)",
+                    "for condition while:"
+                ],
+                "answer": "while condition:"
+            },
+            {
+                "question": "What does 'hello'.upper() return?",
+                "options": ["HELLO", "hello", "Hello", "hELLO"],
+                "answer": "HELLO"
+            },
+            {
+                "question": "Which function reads user input?",
+                "options": ["input()", "read()", "get()", "scan()"],
+                "answer": "input()"
+            },
+            {
+                "question": "What does 'len([1, 2, 3])' return?",
+                "options": ["3", "[1, 2, 3]", "[1, 2]", "[2, 3]"],
+                "answer": "3"
+            },
+            {
+                "question": "Which keyword is used for exception handling?",
+                "options": ["try", "catch", "except", "finally"],
+                "answer": "try"
+            },
+            {
+                "question": "\"__str__\" method is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".str() method"
+                ],
+                "answer": ".str() method"
+            },
+            {
+                "question": "\"__repr__\" method is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".repr() method"
+                ],
+                "answer": ".repr() method"
+            },
+            {
+                "question": "\"self\" keyword is used in:",
+                "options": [
+                    "Classes",
+                    "Functions",
+                    "Modules",
+                    "Packages"
+                ],
+                "answer": "Classes"
+            },
+            {
+                "question": "\"__init__\" method is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".init() method"
+                ],
+                "answer": ".init() method"
+            },
+            {
+                "question": "\"with open('file.txt') as f:\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".open() method"
+                ],
+                "answer": ".open() method"
+            },
+            {
+                "question": "\"import os\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".os() method"
+                ],
+                "answer": ".os() method"
+            },
+            {
+                "question": "\"import sys\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".sys() method"
+                ],
+                "answer": ".sys() method"
+            },
+            {
+                "question": "\"import random\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".random() method"
+                ],
+                "answer": ".random() method"
+            },
+            {
+                "question": "\"import datetime\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".datetime() method"
+                ],
+                "answer": ".datetime() method"
+            },
+            {
+                "question": "\"import json\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".json() method"
+                ],
+                "answer": ".json() method"
+            },
+            {
+                "question": "\"import re\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".re() method"
+                ],
+                "answer": ".re() method"
+            },
+            {
+                "question": "\"import requests\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".requests() method"
+                ],
+                "answer": ".requests() method"
+            },
+            {
+                "question": "\"import urllib\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".urllib() method"
+                ],
+                "answer": ".urllib() method"
+            },
+            {
+                "question": "\"import math\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".math() method"
+                ],
+                "answer": ".math() method"
+            }
+        ]
+    },
+    {
+        "id": "database-1",
+        "title": "Database Concepts",
+        "questions": [
+            {
+                "question": "What is a primary key?",
+                "options": [
+                    "First column in table",
+                    "Unique identifier",
+                    "Password for database",
+                    "Main table"
+                ],
+                "answer": "Unique identifier"
+            },
+            {
+                "question": "Which is a relational database?",
+                "options": ["MySQL", "MongoDB", "Redis", "Cassandra"],
+                "answer": "MySQL"
+            },
+            {
+                "question": "What does SQL stand for?",
+                "options": [
+                    "Structured Query Language",
+                    "Simple Question Language",
+                    "System Query Logic",
+                    "Standard Question List"
+                ],
+                "answer": "Structured Query Language"
+            },
+            {
+                "question": "Which command retrieves data?",
+                "options": ["GET", "SELECT", "RETRIEVE", "FIND"],
+                "answer": "SELECT"
+            },
+            {
+                "question": "What is a database record?",
+                "options": [
+                    "Audio file",
+                    "Row in table",
+                    "Backup file",
+                    "Security log"
+                ],
+                "answer": "Row in table"
+            },
+            {
+                "question": "What is a foreign key?",
+                "options": [
+                    "Key for main table",
+                    "Link between tables",
+                    "Password for database",
+                    "Unique identifier"
+                ],
+                "answer": "Link between tables"
+            },
+            {
+                "question": "Which command adds data?",
+                "options": ["INSERT", "ADD", "CREATE", "UPDATE"],
+                "answer": "INSERT"
+            },
+            {
+                "question": "What is a database schema?",
+                "options": [
+                    "Structure of database",
+                    "Backup file",
+                    "Security log",
+                    "Data type"
+                ],
+                "answer": "Structure of database"
+            },
+            {
+                "question": "\"JOIN\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".join() method"
+                ],
+                "answer": ".join() method"
+            },
+            {
+                "question": "\"WHERE\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".where() method"
+                ],
+                "answer": ".where() method"
+            },
+            {
+                "question": "\"GROUP BY\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".groupby() method"
+                ],
+                "answer": ".groupby() method"
+            },
+            {
+                "question": "\"ORDER BY\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".orderby() method"
+                ],
+                "answer": ".orderby() method"
+            },
+            {
+                "question": "\"HAVING\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".having() method"
+                ],
+                "answer": ".having() method"
+            },
+            {
+                "question": "\"LIMIT\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".limit() method"
+                ],
+                "answer": ".limit() method"
+            },
+            {
+                "question": "\"DISTINCT\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".distinct() method"
+                ],
+                "answer": ".distinct() method"
+            },
+            {
+                "question": "\"UNION\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".union() method"
+                ],
+                "answer": ".union() method"
+            },
+            {
+                "question": "\"INTERSECT\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".intersect() method"
+                ],
+                "answer": ".intersect() method"
+            },
+            {
+                "question": "\"EXCEPT\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".except() method"
+                ],
+                "answer": ".except() method"
+            },
+            {
+                "question": "\"ALTER TABLE\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".altertable() method"
+                ],
+                "answer": ".altertable() method"
+            },
+            {
+                "question": "\"DROP TABLE\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".droptable() method"
+                ],
+                "answer": ".droptable() method"
+            },
+            {
+                "question": "\"CREATE TABLE\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".createtable() method"
+                ],
+                "answer": ".createtable() method"
+            }
+        ]
+    },
+    {
+        "id": "computer-networks-1",
+        "title": "Computer Networks",
+        "questions": [
+            {
+                "question": "What does LAN stand for?",
+                "options": [
+                    "Local Area Network",
+                    "Large Access Network",
+                    "Linked Area Nodes",
+                    "Logical Access Network"
+                ],
+                "answer": "Local Area Network"
+            },
+            {
+                "question": "Which device connects networks?",
+                "options": ["Hub", "Switch", "Router", "Modem"],
+                "answer": "Router"
+            },
+            {
+                "question": "What is the range of IPv4 addresses?",
+                "options": [
+                    "0.0.0.0 to 255.255.255.255",
+                    "1.1.1.1 to 256.256.256.256",
+                    "0.0.0.0 to 999.999.999.999",
+                    "A to Z"
+                ],
+                "answer": "0.0.0.0 to 255.255.255.255"
+            },
+            {
+                "question": "Which is NOT a network topology?",
+                "options": ["Bus", "Star", "Circle", "Mesh"],
+                "answer": "Circle"
+            },
+            {
+                "question": "What does DNS do?",
+                "options": [
+                    "Stores websites",
+                    "Translates domain to IP",
+                    "Provides security",
+                    "Creates networks"
+                ],
+                "answer": "Translates domain to IP"
+            },
+            {
+                "question": "What does DHCP do?",
+                "options": [
+                    "Assigns IP addresses",
+                    "Translates domain to IP",
+                    "Provides security",
+                    "Creates networks"
+                ],
+                "answer": "Assigns IP addresses"
+            },
+            {
+                "question": "What is a subnet mask?",
+                "options": [
+                    "Defines network range",
+                    "Encrypts data",
+                    "Connects devices",
+                    "Stores data"
+                ],
+                "answer": "Defines network range"
+            },
+            {
+                "question": "\"OSI\" model has how many layers?",
+                "options": ["5", "7", "10", "12"],
+                "answer": "7"
+            },
+            {
+                "question": "\"TCP/IP\" model has how many layers?",
+                "options": ["4", "5", "7", "10"],
+                "answer": "4"
+            },
+            {
+                "question": "\"HTTP\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".http() method"
+                ],
+                "answer": ".http() method"
+            },
+            {
+                "question": "\"FTP\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".ftp() method"
+                ],
+                "answer": ".ftp() method"
+            },
+            {
+                "question": "\"SMTP\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".smtp() method"
+                ],
+                "answer": ".smtp() method"
+            },
+            {
+                "question": "\"POP3\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".pop3() method"
+                ],
+                "answer": ".pop3() method"
+            },
+            {
+                "question": "\"IMAP\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".imap() method"
+                ],
+                "answer": ".imap() method"
+            },
+            {
+                "question": "\"SSH\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".ssh() method"
+                ],
+                "answer": ".ssh() method"
+            },
+            {
+                "question": "\"Telnet\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".telnet() method"
+                ],
+                "answer": ".telnet() method"
+            },
+            {
+                "question": "\"ICMP\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".icmp() method"
+                ],
+                "answer": ".icmp() method"
+            },
+            {
+                "question": "\"ARP\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".arp() method"
+                ],
+                "answer": ".arp() method"
+            },
+            {
+                "question": "\"RARP\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".rarp() method"
+                ],
+                "answer": ".rarp() method"
+            },
+            {
+                "question": "\"NAT\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".nat() method"
+                ],
+                "answer": ".nat() method"
+            },
+            {
+                "question": "\"VPN\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".vpn() method"
+                ],
+                "answer": ".vpn() method"
+            },
+            {
+                "question": "\"Proxy\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".proxy() method"
+                ],
+                "answer": ".proxy() method"
+            },
+            {
+                "question": "\"Firewall\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".firewall() method"
+                ],
+                "answer": ".firewall() method"
+            },
+            {
+                "question": "\"IDS\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".ids() method"
+                ],
+                "answer": ".ids() method"
+            },
+            {
+                "question": "\"IPS\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".ips() method"
+                ],
+                "answer": ".ips() method"
+            },
+            {
+                "question": "\"DMZ\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".dmz() method"
+                ],
+                "answer": ".dmz() method"
+            },
+            {
+                "question": "\"BGP\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".bgp() method"
+                ],
+                "answer": ".bgp() method"
+            },
+            {
+                "question": "\"OSPF\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".ospf() method"
+                ],
+                "answer": ".ospf() method"
+            },
+            {
+                "question": "\"RIP\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".rip() method"
+                ],
+                "answer": ".rip() method"
+            },
+            {
+                "question": "\"EIGRP\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".eigrp() method"
+                ],
+                "answer": ".eigrp() method"
+            },
+            {
+                "question": "\"IS-IS\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".isis() method"
+                ],
+                "answer": ".isis() method"
+            },
+            {
+                "question": "\"MPLS\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".mpls() method"
+                ],
+                "answer": ".mpls() method"
+            },
+            {
+                "question": "\"SDN\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".sdn() method"
+                ],
+                "answer": ".sdn() method"
+            },
+            {
+                "question": "\"IoT\" is used for:",
+                "options": [
+                    ".append() method",
+                    ".extend() method",
+                    ".insert() method",
+                    ".iot() method"
+                ],
+                "answer": ".iot() method"
+            }
+        ]
+    },
+    {
+        "id": "computer-history-1",
+        "title": "Computer History & Generations",
+        "questions": [
+            {
+                "question": "First generation computers used:",
+                "options": ["Transistors", "Vacuum tubes", "ICs", "Microprocessors"],
+                "answer": "Vacuum tubes"
+            },
+            {
+                "question": "Who is called the father of computers?",
+                "options": ["Bill Gates", "Steve Jobs", "Charles Babbage", "Alan Turing"],
+                "answer": "Charles Babbage"
+            },
+            {
+                "question": "ENIAC was developed in:",
+                "options": ["1940s", "1960s", "1980s", "2000s"],
+                "answer": "1940s"
+            },
+            {
+                "question": "First computer programming language was:",
+                "options": ["FORTRAN", "COBOL", "Assembly", "Python"],
+                "answer": "FORTRAN"
+            },
+            {
+                "question": "Which company made the first microprocessor?",
+                "options": ["IBM", "Intel", "Apple", "Microsoft"],
+                "answer": "Intel"
+            },
+            {
+                "question": "What is the first computer virus?",
+                "options": ["ILOVEYOU", "Morris", "CIH", "Melissa"],
+                "answer": "Morris"
+            },
+            {
+                "question": "Which generation used ICs?",
+                "options": ["First", "Second", "Third", "Fourth"],
+                "answer": "Third"
+            },
+            {
+                "question": "Which generation used microprocessors?",
+                "options": ["First", "Second", "Third", "Fourth"],
+                "answer": "Fourth"
+            },
+            {
+                "question": "\"UNIVAC\" was developed by:",
+                "options": [
+                    "IBM",
+                    "ENIAC",
+                    "Charles Babbage",
+                    "John Presper Eckert and John Mauchly"
+                ],
+                "answer": "John Presper Eckert and John Mauchly"
+            },
+            {
+                "question": "\"IBM 1401\" was developed in:",
+                "options": ["1940s", "1950s", "1960s", "1970s"],
+                "answer": "1950s"
+            },
+            {
+                "question": "\"IBM PC\" was launched in:",
+                "options": ["1981", "1991", "2001", "2011"],
+                "answer": "1981"
+            },
+            {
+                "question": "\"Windows 95\" was launched in:",
+                "options": ["1995", "2000", "2005", "2010"],
+                "answer": "1995"
+            },
+            {
+                "question": "\"Internet\" was invented in:",
+                "options": ["1960s", "1970s", "1980s", "1990s"],
+                "answer": "1960s"
+            },
+            {
+                "question": "\"World Wide Web\" was invented by:",
+                "options": [
+                    "Tim Berners-Lee",
+                    "Bill Gates",
+                    "Steve Jobs",
+                    "Mark Zuckerberg"
+                ],
+                "answer": "Tim Berners-Lee"
+            },
+            {
+                "question": "\"Google\" was founded in:",
+                "options": ["1998", "2000", "2004", "2010"],
+                "answer": "1998"
+            },
+            {
+                "question": "\"Facebook\" was founded in:",
+                "options": ["2004", "2006", "2008", "2010"],
+                "answer": "2004"
+            },
+            {
+                "question": "\"Twitter\" was founded in:",
+                "options": ["2006", "2008", "2010", "2012"],
+                "answer": "2006"
+            },
+            {
+                "question": "\"YouTube\" was founded in:",
+                "options": ["2005", "2007", "2009", "2011"],
+                "answer": ".append() method"
+            },
+            {
+                "question": "\"LinkedIn\" was founded in:",
+                "options": ["2003", "2005", "2007", "2009"],
+                "answer": "2003"
+            },
+            {
+                "question": "\"Instagram\" was founded in:",
+                "options": ["2010", "2012", "2014", "2016"],
+                "answer": "2010"
+            },
+            {
+                "question": "\"Snapchat\" was founded in:",
+                "options": ["2011", "2013", "2015", "2017"],
+                "answer": ".extend() method"
+            },
+            {
+                "question": "\"WhatsApp\" was founded in:",
+                "options": ["2009", "2011", "2013", "2015"],
+                "answer": ".insert() method"
+            },
+            {
+                "question": "\"TikTok\" was founded in:",
+                "options": ["2016", "2018", "2020", "2022"],
+                "answer": ".insert() method"
+            },
+            {
+                "question": "\"Zoom\" was founded in:",
+                "options": ["2011", "2013", "2015", "2017"],
+                "answer": ".insert() method"
+            },
+            {
+                "question": "\"Slack\" was founded in:",
+                "options": ["2009", "2011", "2013", "2015"],
+                "answer": ".insert() method"
+            },
+            {
+                "question": "\"Spotify\" was founded in:",
+                "options": ["2006", "2008", "2010", "2012"],
+                "answer": ".insert() method"
+            },
+            {
+                "question": "\"Netflix\" was founded in:",
+                "options": ["1997", "1999", "2001", ".append() method"]
+            },
+            {
+                "question": "\"eBay\" was founded in:",
+                "options": ["1995", "1997", "1999", "2001"],
+                "answer": ".insert() method"
+            },
+            {
+                "question": "\"Alibaba\" was founded in:",
+                "options": ["1999", "2001", "2003", "2005"],
+                "answer": ".insert() method"
+            },
+            {
+                "question": "\"PayPal\" was founded in:",
+                "options": ["1998", "2000", "2002", "2004"],
+                "answer": ".insert() method"
+            },
+            {
+                "question": "\"Bitcoin\" was invented in:",
+                "options": ["2008", "2010", "2012", "2014"],
+                "answer": ".insert() method"
+            },
+            {
+                "question": "\"Ethereum\" was invented in:",
+                "options": ["2013", "2015", "2017", "2019"],
+                "answer": ".insert() method"
+            }
+        ]
+    }
+]

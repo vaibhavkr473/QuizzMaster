@@ -1,0 +1,91 @@
+.container {
+  margin-top: 64px;
+  padding: 2rem 0;
+}
+
+.section {
+  padding: 16px;
+  margin-bottom: 24px;
+}
+
+.chartContainer {
+  padding: 16px;
+  margin-bottom: 24px;
+  text-align: center;
+}
+
+.gridContainer {
+  margin-top: 24px;
+}
+
+.paper {
+  padding: 2rem;
+  border-radius: 12px;
+}
+
+@media (max-width: 768px) {
+  .statsGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .chartContainer {
+    overflow-x: auto;
+  }
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.updateInfo {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.userCell {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.avatar {
+  width: 32px;
+  height: 32px;
+}
+
+.trophy {
+  font-size: 1.5rem;
+}
+
+.rank1 {
+  color: #ffd700;
+}
+
+.rank2 {
+  color: #c0c0c0;
+}
+
+.rank3 {
+  color: #cd7f32;
+}
+
+.currentUser {
+  background-color: rgba(25, 118, 210, 0.08);
+}
+
+.quizCount {
+  background-color: rgba(25, 118, 210, 0.1);
+  color: #1976d2;
+}
+
+.loadingContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+}

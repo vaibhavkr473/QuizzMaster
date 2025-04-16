@@ -1,0 +1,101 @@
+.container {
+  padding: 2rem 0;
+  min-height: calc(100vh - 64px - 200px);
+}
+
+.paper {
+  padding: 2rem;
+  background: var(--card-background);
+  transition: background-color 0.3s ease;
+}
+
+.stepper {
+  margin: 2rem 0;
+}
+
+.formContainer {
+  margin: 2rem 0;
+  min-height: 400px;
+}
+
+.buttonContainer {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 2rem;
+}
+
+.button {
+  margin-right: 1rem;
+}
+
+.section {
+  margin-bottom: 2rem;
+}
+
+.sectionTitle {
+  margin-bottom: 1rem !important;
+  color: var(--text-primary);
+}
+
+.fieldGroup {
+  margin-bottom: 1.5rem;
+}
+
+.addButton {
+  margin-top: 1rem !important;
+}
+
+.chipContainer {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  margin: 1rem 0;
+}
+
+.itemContainer {
+  position: relative;
+  padding: 1rem;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  margin-bottom: 1rem;
+}
+
+.deleteButton {
+  position: absolute !important;
+  top: 0.5rem;
+  right: 0.5rem;
+}
+
+/* Dark mode support */
+:global(.MuiTheme-dark) .paper {
+  background-color: var(--card-background);
+}
+
+:global(.MuiTheme-dark) .itemContainer {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .container {
+    padding: 1rem;
+  }
+
+  .paper {
+    padding: 1rem;
+  }
+
+  .stepper {
+    margin: 1rem 0;
+  }
+
+  .buttonContainer {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .button {
+    margin-right: 0;
+    width: 100%;
+  }
+}
