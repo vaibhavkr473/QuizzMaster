@@ -221,7 +221,7 @@ const AuthPage = () => {
                   }}
                 />
                 <TextField
-                  label="Phone Number"
+                  label="Phone Number (Optional)"
                   type="tel"
                   fullWidth
                   margin="normal"
