@@ -1,0 +1,1486 @@
+[
+    {
+        "id": "aptitude-1",
+        "title": "Aptitude 1 (TCS NQT Level)",
+        "questions": [
+            {
+                "question": "If the ratio of ages of A and B is 3:5 and the sum of their ages is 80 years, what is B's age?",
+                "options": ["25", "30", "45", "50"],
+                "answer": "50"
+            },
+            {
+                "question": "A train covers 360 km in 5 hours. What is its speed in m/s?",
+                "options": ["18", "20", "22", "25"],
+                "answer": "20"
+            },
+            {
+                "question": "If 20% of x is 50, what is x?",
+                "options": ["200", "250", "300", "350"],
+                "answer": "250"
+            },
+            {
+                "question": "The average of first 50 natural numbers is:",
+                "options": ["25.5", "25", "26.5", "26"],
+                "answer": "25.5"
+            },
+            {
+                "question": "A number when divided by 6 leaves remainder 3. What is the remainder when the square of that number is divided by 6?",
+                "options": ["0", "1", "3", "4"],
+                "answer": "3"
+            },
+            {
+                "question": "If 15 workers can complete a work in 18 days, how many days will 27 workers take?",
+                "options": ["8", "10", "12", "15"],
+                "answer": "10"
+            },
+            {
+                "question": "The compound interest on ₹10,000 at 10% for 2 years is:",
+                "options": ["₹2000", "₹2100", "₹2200", "₹2300"],
+                "answer": "₹2100"
+            },
+            {
+                "question": "What is 35% of 2/7 of 840?",
+                "options": ["72", "84", "96", "108"],
+                "answer": "84"
+            },
+            {
+                "question": "The next term in the series: 2, 6, 12, 20, 30, ___ is:",
+                "options": ["40", "42", "44", "48"],
+                "answer": "42"
+            },
+            {
+                "question": "If a shirt is sold for ₹450 at 10% loss, what was its cost price?",
+                "options": ["₹500", "₹495", "₹505", "₹510"],
+                "answer": "₹500"
+            },
+            {
+                "question": "The LCM of two numbers is 120 and their HCF is 10. If one number is 30, the other is:",
+                "options": ["20", "30", "40", "50"],
+                "answer": "40"
+            },
+            {
+                "question": "A sum doubles in 8 years at simple interest. In how many years will it triple?",
+                "options": ["12", "16", "20", "24"],
+                "answer": "16"
+            },
+            {
+                "question": "The area of a rhombus with diagonals 12cm and 16cm is:",
+                "options": ["48 cm²", "64 cm²", "96 cm²", "192 cm²"],
+                "answer": "96 cm²"
+            },
+            {
+                "question": "If 3x + 7 = 22, what is x?",
+                "options": ["3", "5", "7", "9"],
+                "answer": "5"
+            },
+            {
+                "question": "The probability of getting a prime number when a die is rolled is:",
+                "options": ["1/6", "1/3", "1/2", "2/3"],
+                "answer": "1/2"
+            },
+            {
+                "question": "What is the remainder when 7^23 is divided by 5?",
+                "options": ["1", "2", "3", "4"],
+                "answer": "3"
+            },
+            {
+                "question": "The value of 1 + 1/(1+1/(1+1/2)) is:",
+                "options": ["5/3", "8/5", "7/5", "9/5"],
+                "answer": "8/5"
+            },
+            {
+                "question": "A man walks 10m South, then turns right and walks 5m, then turns right again and walks 10m. How far is he from the starting point?",
+                "options": ["0 m", "5 m", "10 m", "15 m"],
+                "answer": "5 m"
+            },
+            {
+                "question": "If 20% of (x + y) = 30% of (x - y), what is x:y?",
+                "options": ["1:5", "5:1", "2:3", "3:2"],
+                "answer": "5:1"
+            },
+            {
+                "question": "The sum of digits of a two-digit number is 9. When digits are reversed, the number decreases by 45. The original number is:",
+                "options": ["45", "54", "63", "72"],
+                "answer": "72"
+            },
+            {
+                "question": "A pipe can fill a tank in 6 hours. Another pipe can empty it in 8 hours. If both are opened together, the tank will be filled in:",
+                "options": ["12 hours", "18 hours", "24 hours", "30 hours"],
+                "answer": "24 hours"
+            },
+            {
+                "question": "The average of 11 results is 50. If the average of first 6 is 49 and last 6 is 52, the 6th result is:",
+                "options": ["48", "50", "52", "56"],
+                "answer": "56"
+            },
+            {
+                "question": "If log₅(x) = -3, then x is:",
+                "options": ["1/125", "-125", "125", "-1/125"],
+                "answer": "1/125"
+            },
+            {
+                "question": "The smallest perfect square divisible by 12, 15 and 18 is:",
+                "options": ["900", "1200", "1600", "1800"],
+                "answer": "900"
+            },
+            {
+                "question": "A clock shows 3:15. What is the angle between the hour and minute hands?",
+                "options": ["0°", "7.5°", "15°", "22.5°"],
+                "answer": "7.5°"
+            }
+        ]
+    },
+    {
+        "id": "aptitude-2",
+        "title": "Aptitude 2 (TCS NQT Level)",
+        "questions": [
+            {
+                "question": "If x:y = 3:4 and y:z = 5:6, then x:z is:",
+                "options": ["5:8", "5:6", "15:24", "9:10"],
+                "answer": "5:8"
+            },
+            {
+                "question": "A man buys 10 oranges for ₹30 and sells 8 oranges for ₹32. His profit percentage is:",
+                "options": ["20%", "25%", "30%", "33.33%"],
+                "answer": "33.33%"
+            },
+            {
+                "question": "The sum of the series 1 + 3 + 5 + ... + 19 is:",
+                "options": ["81", "100", "121", "144"],
+                "answer": "100"
+            },
+            {
+                "question": "If 5 men or 7 women can do a work in 37 days, how long will 5 men and 7 women take?",
+                "options": ["18.5 days", "20 days", "21 days", "22 days"],
+                "answer": "18.5 days"
+            },
+            {
+                "question": "The value of (0.000064)^(1/3) is:",
+                "options": ["0.004", "0.04", "0.4", "4"],
+                "answer": "0.04"
+            },
+            {
+                "question": "A number when divided by 133 leaves remainder 21. What is the remainder when the same number is divided by 7?",
+                "options": ["0", "1", "2", "3"],
+                "answer": "0"
+            },
+            {
+                "question": "The area of the largest circle that can be drawn inside a square of side 14 cm is:",
+                "options": ["49π cm²", "64π cm²", "81π cm²", "100π cm²"],
+                "answer": "49π cm²"
+            },
+            {
+                "question": "If 2^x = 8^(y+1) and 9^y = 3^(x-9), then x + y is:",
+                "options": ["18", "21", "24", "27"],
+                "answer": "21"
+            },
+            {
+                "question": "The average weight of 8 persons increases by 2.5 kg when a new person replaces one weighing 65 kg. The weight of the new person is:",
+                "options": ["75 kg", "80 kg", "85 kg", "90 kg"],
+                "answer": "85 kg"
+            },
+            {
+                "question": "A boat goes 30 km upstream in 5 hours and 44 km downstream in 4 hours. The speed of the boat in still water is:",
+                "options": ["8 km/h", "9 km/h", "10 km/h", "11 km/h"],
+                "answer": "10 km/h"
+            },
+            {
+                "question": "The sum of all two-digit numbers divisible by 5 is:",
+                "options": ["945", "950", "955", "960"],
+                "answer": "945"
+            },
+            {
+                "question": "If the selling price of 20 articles is equal to the cost price of 25 articles, the profit percentage is:",
+                "options": ["20%", "25%", "30%", "35%"],
+                "answer": "25%"
+            },
+            {
+                "question": "The number of zeros at the end of 100! is:",
+                "options": ["20", "22", "24", "25"],
+                "answer": "24"
+            },
+            {
+                "question": "A and B can do a work in 12 days, B and C in 15 days, C and A in 20 days. A alone can do it in:",
+                "options": ["20 days", "25 days", "30 days", "35 days"],
+                "answer": "30 days"
+            },
+            {
+                "question": "The least perfect square divisible by 3, 4, 5, 6 and 8 is:",
+                "options": ["900", "1200", "2500", "3600"],
+                "answer": "3600"
+            },
+            {
+                "question": "If 4^(x+3) = 8^(x-1), then x is:",
+                "options": ["3", "5", "7", "9"],
+                "answer": "9"
+            },
+            {
+                "question": "The area of a sector of a circle with radius 7 cm and central angle 60° is:",
+                "options": ["22 cm²", "25.66 cm²", "44 cm²", "77 cm²"],
+                "answer": "25.66 cm²"
+            },
+            {
+                "question": "The probability that a leap year has 53 Sundays is:",
+                "options": ["1/7", "2/7", "3/7", "4/7"],
+                "answer": "2/7"
+            },
+            {
+                "question": "If 3sinθ + 4cosθ = 5, then tanθ is:",
+                "options": ["3/4", "4/3", "1", "5/12"],
+                "answer": "3/4"
+            },
+            {
+                "question": "The sum of the digits of a number is 10. When the digits are reversed, the number increases by 18. The original number is:",
+                "options": ["37", "46", "64", "73"],
+                "answer": "46"
+            },
+            {
+                "question": "A man covers a certain distance at 40 km/h and returns at 60 km/h. His average speed is:",
+                "options": ["45 km/h", "48 km/h", "50 km/h", "52 km/h"],
+                "answer": "48 km/h"
+            },
+            {
+                "question": "The value of log₅√5 is:",
+                "options": ["0", "1/2", "1", "5"],
+                "answer": "1/2"
+            },
+            {
+                "question": "The number of diagonals in a decagon is:",
+                "options": ["25", "30", "35", "40"],
+                "answer": "35"
+            },
+            {
+                "question": "If the compound ratio of 3:4 and 5:6 is 45:x, then x is:",
+                "options": ["36", "45", "54", "60"],
+                "answer": "60"
+            },
+            {
+                "question": "The smallest number which when divided by 12, 15 and 20 leaves remainder 5 in each case is:",
+                "options": ["65", "85", "105", "125"],
+                "answer": "65"
+            }
+        ]
+    },
+    {
+        "id": "aptitude-3",
+        "title": "Aptitude 3 (TCS NQT Level)",
+        "questions": [
+            {
+                "question": "If x + 1/x = 2, then x³ + 1/x³ is:",
+                "options": ["2", "4", "6", "8"],
+                "answer": "2"
+            },
+            {
+                "question": "The difference between simple and compound interest on ₹5000 for 2 years at 10% p.a. is:",
+                "options": ["₹0", "₹50", "₹100", "₹200"],
+                "answer": "₹50"
+            },
+            {
+                "question": "The value of (1 - 1/2)(1 - 1/3)...(1 - 1/10) is:",
+                "options": ["1/10", "1/100", "1/1000", "1/10000"],
+                "answer": "1/10"
+            },
+            {
+                "question": "The sum of the series 1² + 2² + 3² + ... + 10² is:",
+                "options": ["285", "385", "485", "585"],
+                "answer": "385"
+            },
+            {
+                "question": "If 5a = 7b = 35c, then c is:",
+                "options": ["ab/(a+b)", "(a+b)/ab", "ab/(a-b)", "(a-b)/ab"],
+                "answer": "ab/(a+b)"
+            },
+            {
+                "question": "The number of terms in the expansion of (x + y + z)² is:",
+                "options": ["4", "5", "6", "7"],
+                "answer": "6"
+            },
+            {
+                "question": "The area of the largest triangle that can be inscribed in a semicircle of radius r is:",
+                "options": ["r²", "√2 r²", "2r²", "πr²"],
+                "answer": "r²"
+            },
+            {
+                "question": "If the angles of a triangle are in ratio 1:2:3, the largest angle is:",
+                "options": ["30°", "60°", "90°", "120°"],
+                "answer": "90°"
+            },
+            {
+                "question": "The value of (1 + tan15°)(1 + tan30°) is:",
+                "options": ["1", "2", "√3", "3"],
+                "answer": "2"
+            },
+            {
+                "question": "A man sells two chairs at ₹1200 each, gaining 20% on one and losing 20% on the other. His net gain/loss is:",
+                "options": ["4% loss", "4% gain", "No profit no loss", "10% loss"],
+                "answer": "4% loss"
+            },
+            {
+                "question": "The number of proper subsets of {1, 2, 3} is:",
+                "options": ["3", "6", "7", "8"],
+                "answer": "7"
+            },
+            {
+                "question": "If logₓ(1/8) = -3/2, then x is:",
+                "options": ["2", "4", "8", "16"],
+                "answer": "4"
+            },
+            {
+                "question": "The number of ways to arrange the letters of the word 'TCS' is:",
+                "options": ["3", "6", "9", "12"],
+                "answer": "6"
+            },
+            {
+                "question": "If 3x + 4y = 11 and xy = 2, then 9x² + 16y² is:",
+                "options": ["25", "49", "73", "121"],
+                "answer": "73"
+            },
+            {
+                "question": "The sum of the infinite series 1 + 1/2 + 1/4 + 1/8 + ... is:",
+                "options": ["1.5", "2", "2.5", "3"],
+                "answer": "2"
+            },
+            {
+                "question": "The number of zeroes at the end of 50! is:",
+                "options": ["10", "12", "14", "16"],
+                "answer": "12"
+            },
+            {
+                "question": "If sinθ + cosθ = √2, then tanθ + cotθ is:",
+                "options": ["1", "2", "√2", "2√2"],
+                "answer": "2"
+            },
+            {
+                "question": "The value of (1 + i)(1 - i), where i = √-1 is:",
+                "options": ["0", "1", "2", "i"],
+                "answer": "2"
+            },
+            {
+                "question": "The number of solutions of the equation |x| + |x - 1| = 1 is:",
+                "options": ["0", "1", "2", "Infinite"],
+                "answer": "Infinite"
+            },
+            {
+                "question": "The sum of the cubes of first n natural numbers is equal to:",
+                "options": [
+                    "(n(n+1)/2)²",
+                    "n(n+1)(2n+1)/6",
+                    "n²(n+1)²/4",
+                    "n(n+1)(n+2)/6"
+                ],
+                "answer": "(n(n+1)/2)²"
+            },
+            {
+                "question": "If the roots of x² - kx + 4 = 0 are equal, then k is:",
+                "options": ["±2", "±4", "±6", "±8"],
+                "answer": "±4"
+            },
+            {
+                "question": "The probability of getting at least one head in three tosses of a coin is:",
+                "options": ["1/8", "3/8", "7/8", "1"],
+                "answer": "7/8"
+            },
+            {
+                "question": "The value of sin²5° + sin²10° + ... + sin²90° is:",
+                "options": ["8", "8.5", "9", "9.5"],
+                "answer": "9.5"
+            },
+            {
+                "question": "The number of common tangents to two circles of radii 5 cm and 3 cm with centers 10 cm apart is:",
+                "options": ["1", "2", "3", "4"],
+                "answer": "4"
+            }
+        ]
+    },
+    {
+        "id": "reasoning-1",
+        "title": "Reasoning 1 (TCS NQT Level)",
+        "questions": [
+            {
+                "question": "Complete the series: 2, 5, 10, 17, 26, ___",
+                "options": ["35", "36", "37", "38"],
+                "answer": "37"
+            },
+            {
+                "question": "If 'PENCIL' is written as 'NCPGJK', how is 'ERASER' written?",
+                "options": ["CPYQCP", "CPYQDP", "CPZQCP", "DPYQCP"],
+                "answer": "CPYQCP"
+            },
+            {
+                "question": "Find the odd one out: Square, Rectangle, Triangle, Circle",
+                "options": ["Square", "Rectangle", "Triangle", "Circle"],
+                "answer": "Circle"
+            },
+            {
+                "question": "A is B's sister. C is B's mother. D is C's father. How is A related to D?",
+                "options": ["Granddaughter", "Daughter", "Niece", "Sister"],
+                "answer": "Granddaughter"
+            },
+            {
+                "question": "If 15th August 1947 was Friday, what day was 26th January 1950?",
+                "options": ["Thursday", "Friday", "Saturday", "Sunday"],
+                "answer": "Thursday"
+            },
+            {
+                "question": "Which number replaces the question mark? 4, 9, 19, 39, ?",
+                "options": ["59", "69", "79", "89"],
+                "answer": "79"
+            },
+            {
+                "question": "Pointing to a photograph, a man said 'This man's son is my son's father'. How is he related to the man in the photo?",
+                "options": ["Father", "Brother", "Himself", "Uncle"],
+                "answer": "Himself"
+            },
+            {
+                "question": "If South-East becomes North, then West becomes?",
+                "options": ["South-East", "North-East", "North-West", "South-West"],
+                "answer": "South-East"
+            },
+            {
+                "question": "Find the missing number: 5, 16, 49, 104, ?",
+                "options": ["148", "170", "181", "196"],
+                "answer": "181"
+            },
+            {
+                "question": "Which word does NOT belong with the others?",
+                "options": ["Volume", "Size", "Large", "Shape"],
+                "answer": "Large"
+            },
+            {
+                "question": "Complete the analogy: 9 : 81 :: 12 : ?",
+                "options": ["121", "132", "144", "156"],
+                "answer": "144"
+            },
+            {
+                "question": "If 'P' means '+', 'Q' means '-', 'R' means '×' and 'S' means '÷', then 18 R 12 S 4 P 5 Q 6 = ?",
+                "options": ["53", "54", "55", "56"],
+                "answer": "53"
+            },
+            {
+                "question": "Find the odd one out: 8, 27, 64, 100, 125, 216",
+                "options": ["8", "27", "100", "125"],
+                "answer": "100"
+            },
+            {
+                "question": "A man walks 10m South, then turns right and walks 5m, then turns right again and walks 10m. How far is he from the starting point?",
+                "options": ["0 m", "5 m", "10 m", "15 m"],
+                "answer": "5 m"
+            },
+            {
+                "question": "If 'APPLE' is coded as 'CRRNG', how is 'ORANGE' coded?",
+                "options": ["QTCPIG", "QTCPIH", "QTCPJG", "QTCPJI"],
+                "answer": "QTCPIG"
+            },
+            {
+                "question": "Which is the next figure in the sequence? [Square, Triangle, Square, Square, Triangle, ?]",
+                "options": ["Square", "Triangle", "Circle", "Rectangle"],
+                "answer": "Square"
+            },
+            {
+                "question": "If 3*5=20, 4*6=28, 5*7=36, then 6*8=?",
+                "options": ["42", "44", "46", "48"],
+                "answer": "44"
+            },
+            {
+                "question": "Find the missing letter: A, D, I, P, ?",
+                "options": ["U", "V", "W", "Y"],
+                "answer": "Y"
+            },
+            {
+                "question": "If 'RED' is coded as '6720', how is 'GREEN' coded?",
+                "options": ["1672022", "1672023", "1672024", "1672025"],
+                "answer": "1672022"
+            },
+            {
+                "question": "Which number is opposite to 3 in a standard dice when 1 is at top and 5 at front?",
+                "options": ["2", "4", "6", "Cannot determine"],
+                "answer": "6"
+            },
+            {
+                "question": "Complete the series: Z, X, V, T, R, ?",
+                "options": ["O", "P", "Q", "S"],
+                "answer": "P"
+            },
+            {
+                "question": "If 'MADRAS' is written as 'NBESBT', how is 'BOMBAY' written?",
+                "options": ["CPNCBZ", "CPNCBX", "CPNCBY", "CPNCBA"],
+                "answer": "CPNCBZ"
+            },
+            {
+                "question": "Find the odd one out: 10, 25, 45, 54, 75, 80",
+                "options": ["10", "45", "54", "80"],
+                "answer": "54"
+            },
+            {
+                "question": "If 'PAPER' is 71316 and 'PEN' is 316, then 'PENCIL' is?",
+                "options": ["316293", "316392", "361293", "361392"],
+                "answer": "316293"
+            },
+            {
+                "question": "A clock shows 2:30. What is the angle between the hour and minute hands?",
+                "options": ["75°", "90°", "105°", "120°"],
+                "answer": "105°"
+            }
+        ]
+    },
+    {
+        "id": "reasoning-2",
+        "title": "Reasoning 2 (TCS NQT Level)",
+        "questions": [
+            {
+                "question": "Complete the series: 3, 7, 16, 35, 74, ___",
+                "options": ["135", "148", "153", "162"],
+                "answer": "153"
+            },
+            {
+                "question": "If 'MACHINE' is coded as '19-1-3-8-9-14-5', how is 'COMPUTER' coded?",
+                "options": [
+                    "3-15-13-16-21-20-5-18",
+                    "3-15-13-16-21-20-5-17",
+                    "3-15-14-16-21-20-5-18",
+                    "3-15-13-16-22-20-5-18"
+                ],
+                "answer": "3-15-13-16-21-20-5-18"
+            },
+            {
+                "question": "Find the odd one out: 8, 27, 125, 216, 343, 1331",
+                "options": ["27", "125", "216", "343"],
+                "answer": "216"
+            },
+            {
+                "question": "A is the brother of B. C is the father of A. D is the brother of E. E is the daughter of B. How is D related to C?",
+                "options": ["Son", "Grandson", "Nephew", "Brother"],
+                "answer": "Grandson"
+            },
+            {
+                "question": "If 5th March 2008 was Tuesday, what day was 5th March 2001?",
+                "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
+                "answer": "Monday"
+            },
+            {
+                "question": "Which number replaces the question mark? 2, 6, 12, 20, 30, ?",
+                "options": ["40", "42", "44", "48"],
+                "answer": "42"
+            },
+            {
+                "question": "Pointing to a woman, a man said 'Her mother is the only daughter of my mother-in-law'. How is the man related to the woman?",
+                "options": ["Father", "Brother", "Husband", "Uncle"],
+                "answer": "Father"
+            },
+            {
+                "question": "If North-West becomes South, then North-East becomes?",
+                "options": ["North", "South", "East", "West"],
+                "answer": "West"
+            },
+            {
+                "question": "Find the missing number: 3, 7, 23, 95, ?",
+                "options": ["189", "299", "479", "575"],
+                "answer": "479"
+            },
+            {
+                "question": "Which word does NOT belong with the others?",
+                "options": ["Cube", "Sphere", "Cylinder", "Square"],
+                "answer": "Square"
+            },
+            {
+                "question": "Complete the analogy: 25 : 36 :: 49 : ?",
+                "options": ["64", "81", "100", "121"],
+                "answer": "64"
+            },
+            {
+                "question": "If 'A' means '×', 'B' means '÷', 'C' means '+' and 'D' means '-', then 15 A 3 C 24 B 12 D 7 = ?",
+                "options": ["40", "42", "44", "46"],
+                "answer": "40"
+            },
+            {
+                "question": "Find the odd one out: 2, 5, 10, 17, 26, 37, 51",
+                "options": ["5", "10", "26", "51"],
+                "answer": "51"
+            },
+            {
+                "question": "A man faces North. He turns 135° clockwise and then 90° anti-clockwise. Which direction is he facing now?",
+                "options": ["North-East", "North-West", "South-East", "South-West"],
+                "answer": "North-West"
+            },
+            {
+                "question": "If 'TIG' is coded as 'UJH', how is 'CAT' coded?",
+                "options": ["DBU", "DBS", "DCU", "DDU"],
+                "answer": "DBU"
+            },
+            {
+                "question": "Which is the next figure in the sequence? [Circle, Triangle, Square, Circle, Triangle, ?]",
+                "options": ["Square", "Circle", "Triangle", "Rectangle"],
+                "answer": "Square"
+            },
+            {
+                "question": "If 4*3=15, 5*4=24, 6*5=35, then 7*6=?",
+                "options": ["42", "46", "48", "52"],
+                "answer": "48"
+            },
+            {
+                "question": "Find the missing letter: B, E, H, K, ?",
+                "options": ["N", "O", "P", "Q"],
+                "answer": "N"
+            },
+            {
+                "question": "If 'BLUE' is coded as '1252215', how is 'GREEN' coded?",
+                "options": ["7185514", "7185515", "7185516", "7185517"],
+                "answer": "7185514"
+            },
+            {
+                "question": "Which number is opposite to 2 in a standard dice when 4 is at top and 1 at front?",
+                "options": ["3", "5", "6", "Cannot determine"],
+                "answer": "6"
+            },
+            {
+                "question": "Complete the series: J, F, M, A, M, ?",
+                "options": ["J", "K", "L", "M"],
+                "answer": "J"
+            },
+            {
+                "question": "If 'CALCUTTA' is written as '312331220', how is 'DELHI' written?",
+                "options": ["45238", "45289", "45328", "45389"],
+                "answer": "45328"
+            },
+            {
+                "question": "Find the odd one out: 121, 144, 169, 196, 225, 256, 289",
+                "options": ["121", "144", "225", "256"],
+                "answer": "144"
+            },
+            {
+                "question": "If 'JANUARY' is 101142125 and 'FEB' is 652, then 'MARCH' is?",
+                "options": ["131183", "1311838", "1311839", "1311840"],
+                "answer": "1311838"
+            },
+            {
+                "question": "A clock shows 4:20. What is the angle between the hour and minute hands?",
+                "options": ["0°", "5°", "10°", "20°"],
+                "answer": "10°"
+            }
+        ]
+    },
+    {
+        "id": "reasoning-3",
+        "title": "Reasoning 3 (TCS NQT Level)",
+        "questions": [
+            {
+                "question": "Complete the series: 5, 11, 23, 47, 95, ___",
+                "options": ["181", "191", "193", "199"],
+                "answer": "191"
+            },
+            {
+                "question": "If 'DICTIONARY' is coded as '4819352611725', how is 'NOTEBOOK' coded?",
+                "options": [
+                    "1415205221511",
+                    "1415205221512",
+                    "1415205221513",
+                    "1415205221514"
+                ],
+                "answer": "1415205221511"
+            },
+            {
+                "question": "Find the odd one out: 6, 24, 60, 120, 210, 336, 504",
+                "options": ["6", "24", "120", "504"],
+                "answer": "504"
+            },
+            {
+                "question": "A is the son of B. C is the wife of B. D is the father of C. How is A related to D?",
+                "options": ["Son", "Grandson", "Nephew", "Son-in-law"],
+                "answer": "Grandson"
+            },
+            {
+                "question": "If 1st January 2000 was Saturday, what day was 1st January 2001?",
+                "options": ["Saturday", "Sunday", "Monday", "Tuesday"],
+                "answer": "Monday"
+            },
+            {
+                "question": "Which number replaces the question mark? 1, 4, 9, 16, 25, ?",
+                "options": ["36", "49", "64", "81"],
+                "answer": "36"
+            },
+            {
+                "question": "Pointing to a girl, a man said 'She is the daughter of my mother's only daughter'. How is the man related to the girl?",
+                "options": ["Father", "Brother", "Uncle", "Cannot determine"],
+                "answer": "Cannot determine"
+            },
+            {
+                "question": "If South becomes North-East, then East becomes?",
+                "options": ["North-West", "South-West", "South-East", "North-East"],
+                "answer": "South-West"
+            },
+            {
+                "question": "Find the missing number: 2, 12, 36, 80, 150, ?",
+                "options": ["200", "216", "252", "300"],
+                "answer": "252"
+            },
+            {
+                "question": "Which word does NOT belong with the others?",
+                "options": ["Pen", "Pencil", "Marker", "Ink"],
+                "answer": "Ink"
+            },
+            {
+                "question": "Complete the analogy: 121 : 12 :: 169 : ?",
+                "options": ["13", "14", "15", "16"],
+                "answer": "14"
+            },
+            {
+                "question": "If 'P' means '-', 'Q' means '×', 'R' means '÷' and 'S' means '+', then 15 Q 3 P 12 R 4 S 5 = ?",
+                "options": ["38", "39", "40", "41"],
+                "answer": "38"
+            },
+            {
+                "question": "Find the odd one out: 3, 5, 7, 11, 13, 17, 19, 21",
+                "options": ["5", "13", "17", "21"],
+                "answer": "21"
+            },
+            {
+                "question": "A man faces North. He turns 90° clockwise, then 180° anti-clockwise, then 270° clockwise. Which direction is he facing now?",
+                "options": ["North", "South", "East", "West"],
+                "answer": "West"
+            },
+            {
+                "question": "If 'DOG' is coded as '4157', how is 'CAT' coded?",
+                "options": ["3120", "3121", "3122", "3123"],
+                "answer": "3120"
+            },
+            {
+                "question": "Which is the next figure in the sequence? [▲, ▼, ◀, ▶, ▲, ▼, ?]",
+                "options": ["◀", "▶", "▲", "▼"],
+                "answer": "◀"
+            },
+            {
+                "question": "If 5#3=16, 7#2=45, 8#6=28, then 9#4=?",
+                "options": ["65", "72", "84", "96"],
+                "answer": "65"
+            },
+            {
+                "question": "Find the missing letter: C, F, I, L, ?",
+                "options": ["O", "P", "Q", "R"],
+                "answer": "O"
+            },
+            {
+                "question": "If 'RED' is coded as '1854', how is 'BLUE' coded?",
+                "options": ["212215", "2122155", "2122156", "2122157"],
+                "answer": "2122155"
+            },
+            {
+                "question": "Which number is opposite to 4 in a standard dice when 2 is at top and 3 at front?",
+                "options": ["1", "5", "6", "Cannot determine"],
+                "answer": "5"
+            },
+            {
+                "question": "Complete the series: Q, N, K, H, ?",
+                "options": ["E", "F", "G", "D"],
+                "answer": "E"
+            },
+            {
+                "question": "If 'BANGALORE' is written as 'CBOBMPFQF', how is 'HYDERABAD' written?",
+                "options": ["IZEFSBCBE", "IZEFSBCBF", "IZEFSBCBG", "IZEFSBCBH"],
+                "answer": "IZEFSBCBE"
+            },
+            {
+                "question": "Find the odd one out: 8, 14, 26, 50, 98, 194, 386",
+                "options": ["14", "26", "50", "98"],
+                "answer": "14"
+            },
+            {
+                "question": "If 'JUNE' is 101142 and 'JULY' is 1011225, then 'AUGUST' is?",
+                "options": ["12172120", "12172121", "12172122", "12172123"],
+                "answer": "12172120"
+            },
+            {
+                "question": "A clock shows 6:45. What is the angle between the hour and minute hands?",
+                "options": ["45°", "60°", "67.5°", "90°"],
+                "answer": "67.5°"
+            }
+        ]
+    },
+    {
+        "id": "english-1",
+        "title": "English 1 (TCS NQT Level)",
+        "questions": [
+            {
+                "question": "Choose the correct spelling:",
+                "options": ["Accomodate", "Acommodate", "Accommodate", "Acomodate"],
+                "answer": "Accommodate"
+            },
+            {
+                "question": "What is the antonym of 'Benevolent'?",
+                "options": ["Kind", "Generous", "Malevolent", "Friendly"],
+                "answer": "Malevolent"
+            },
+            {
+                "question": "Identify the noun: 'The quick brown fox jumps over the lazy dog'",
+                "options": ["Quick", "Fox", "Jumps", "Over"],
+                "answer": "Fox"
+            },
+            {
+                "question": "Which sentence is in passive voice?",
+                "options": [
+                    "The cat chased the mouse",
+                    "The mouse was chased by the cat",
+                    "She sings a song",
+                    "They are playing football"
+                ],
+                "answer": "The mouse was chased by the cat"
+            },
+            {
+                "question": "Fill the blank: She ___ to school every day.",
+                "options": ["go", "goes", "going", "gone"],
+                "answer": "goes"
+            },
+            {
+                "question": "What is the plural of 'child'?",
+                "options": ["Childs", "Children", "Childes", "Child"],
+                "answer": "Children"
+            },
+            {
+                "question": "Identify the conjunction: 'I wanted to go but it was raining'",
+                "options": ["I", "Wanted", "But", "Raining"],
+                "answer": "But"
+            },
+            {
+                "question": "What is the past participle of 'write'?",
+                "options": ["Wrote", "Written", "Writed", "Writing"],
+                "answer": "Written"
+            },
+            {
+                "question": "Which is an abstract noun?",
+                "options": ["Book", "Happiness", "Table", "Water"],
+                "answer": "Happiness"
+            },
+            {
+                "question": "Choose the correct punctuation:",
+                "options": [
+                    "\"What time is it\" asked Ravi.",
+                    "\"What time is it?\" asked Ravi.",
+                    "\"What time is it?\" Asked Ravi.",
+                    "\"What time is it\" Asked Ravi."
+                ],
+                "answer": "\"What time is it?\" asked Ravi."
+            },
+            {
+                "question": "Select the correctly spelled word:",
+                "options": ["Occassion", "Occasion", "Ocassion", "Occasson"],
+                "answer": "Occasion"
+            },
+            {
+                "question": "What is the synonym of 'Pragmatic'?",
+                "options": ["Idealistic", "Practical", "Theoretical", "Philosophical"],
+                "answer": "Practical"
+            },
+            {
+                "question": "Identify the adverb: 'She sings beautifully'",
+                "options": ["She", "Sings", "Beautifully", "None"],
+                "answer": "Beautifully"
+            },
+            {
+                "question": "Which sentence is grammatically correct?",
+                "options": [
+                    "Each of the boys have a book",
+                    "Each of the boys has a book",
+                    "Each of the boys having a book",
+                    "Each of the boys had a book"
+                ],
+                "answer": "Each of the boys has a book"
+            },
+            {
+                "question": "What is the feminine of 'Duke'?",
+                "options": ["Duchess", "Dukess", "Dukette", "Dukina"],
+                "answer": "Duchess"
+            },
+            {
+                "question": "Choose the correct indirect speech: He said, 'I am going to the market'",
+                "options": [
+                    "He said that he is going to the market",
+                    "He said that he was going to the market",
+                    "He said that I am going to the market",
+                    "He said that I was going to the market"
+                ],
+                "answer": "He said that he was going to the market"
+            },
+            {
+                "question": "Which word is not a preposition?",
+                "options": ["Above", "Below", "Between", "Beautiful"],
+                "answer": "Beautiful"
+            },
+            {
+                "question": "What is the collective noun for a group of lions?",
+                "options": ["Herd", "Pack", "Pride", "Flock"],
+                "answer": "Pride"
+            },
+            {
+                "question": "Identify the type of sentence: 'What a beautiful day!'",
+                "options": ["Declarative", "Interrogative", "Imperative", "Exclamatory"],
+                "answer": "Exclamatory"
+            },
+            {
+                "question": "What is the meaning of 'Benevolent'?",
+                "options": ["Cruel", "Kind", "Selfish", "Greedy"],
+                "answer": "Kind"
+            },
+            {
+                "question": "Choose the correct article: ___ European country",
+                "options": ["a", "an", "the", "no article"],
+                "answer": "a"
+            },
+            {
+                "question": "What is the comparative form of 'good'?",
+                "options": ["Gooder", "More good", "Better", "Best"],
+                "answer": "Better"
+            },
+            {
+                "question": "Identify the tense: 'She has been working since morning'",
+                "options": [
+                    "Present Perfect",
+                    "Present Continuous",
+                    "Present Perfect Continuous",
+                    "Past Perfect"
+                ],
+                "answer": "Present Perfect Continuous"
+            },
+            {
+                "question": "What is the opposite of 'Ascend'?",
+                "options": ["Climb", "Descend", "Transcend", "Defend"],
+                "answer": "Descend"
+            },
+            {
+                "question": "Which is the correct idiomatic expression?",
+                "options": [
+                    "Bite your tongue",
+                    "Bite your teeth",
+                    "Bite your lips",
+                    "Bite your nails"
+                ],
+                "answer": "Bite your tongue"
+            }
+        ]
+    },
+    {
+        "id": "english-2",
+        "title": "English 2 (TCS NQT Level)",
+        "questions": [
+            {
+                "question": "Choose the correct spelling:",
+                "options": ["Embarrass", "Embarass", "Embarras", "Embaras"],
+                "answer": "Embarrass"
+            },
+            {
+                "question": "What is the antonym of 'Courageous'?",
+                "options": ["Brave", "Fearless", "Cowardly", "Bold"],
+                "answer": "Cowardly"
+            },
+            {
+                "question": "Identify the adjective: 'The quick brown fox jumps over the lazy dog'",
+                "options": ["Quick", "Fox", "Jumps", "Over"],
+                "answer": "Quick"
+            },
+            {
+                "question": "Which sentence is in active voice?",
+                "options": [
+                    "The book was read by the student",
+                    "The student read the book",
+                    "The book is being read by the student",
+                    "The book has been read by the student"
+                ],
+                "answer": "The student read the book"
+            },
+            {
+                "question": "Fill the blank: If I ___ you, I would accept the offer.",
+                "options": ["am", "was", "were", "be"],
+                "answer": "were"
+            },
+            {
+                "question": "What is the singular of 'data'?",
+                "options": ["Data", "Datum", "Date", "Datus"],
+                "answer": "Datum"
+            },
+            {
+                "question": "Identify the preposition: 'The book is on the table'",
+                "options": ["Book", "Is", "On", "Table"],
+                "answer": "On"
+            },
+            {
+                "question": "What is the present participle of 'run'?",
+                "options": ["Ran", "Run", "Running", "Runned"],
+                "answer": "Running"
+            },
+            {
+                "question": "Which is a proper noun?",
+                "options": ["City", "Delhi", "River", "Mountain"],
+                "answer": "Delhi"
+            },
+            {
+                "question": "Choose the correct punctuation:",
+                "options": [
+                    "The students books were on the desk",
+                    "The student's books were on the desk",
+                    "The students' books were on the desk",
+                    "The students book's were on the desk"
+                ],
+                "answer": "The students' books were on the desk"
+            },
+            {
+                "question": "Select the correctly spelled word:",
+                "options": ["Definately", "Definitely", "Definately", "Definitley"],
+                "answer": "Definitely"
+            },
+            {
+                "question": "What is the synonym of 'Ephemeral'?",
+                "options": ["Permanent", "Temporary", "Eternal", "Lasting"],
+                "answer": "Temporary"
+            },
+            {
+                "question": "Identify the verb: 'She quickly solved the puzzle'",
+                "options": ["She", "Quickly", "Solved", "Puzzle"],
+                "answer": "Solved"
+            },
+            {
+                "question": "Which sentence is grammatically correct?",
+                "options": [
+                    "Neither of them are coming",
+                    "Neither of them is coming",
+                    "Neither of them am coming",
+                    "Neither of them be coming"
+                ],
+                "answer": "Neither of them is coming"
+            },
+            {
+                "question": "What is the masculine of 'Niece'?",
+                "options": ["Nephew", "Uncle", "Father", "Brother"],
+                "answer": "Nephew"
+            },
+            {
+                "question": "Choose the correct indirect speech: She said, 'I will call you tomorrow'",
+                "options": [
+                    "She said that she will call me tomorrow",
+                    "She said that she would call me the next day",
+                    "She said that I will call you tomorrow",
+                    "She said that I would call you the next day"
+                ],
+                "answer": "She said that she would call me the next day"
+            },
+            {
+                "question": "Which word is not a conjunction?",
+                "options": ["And", "But", "Or", "Quickly"],
+                "answer": "Quickly"
+            },
+            {
+                "question": "What is the collective noun for a group of fish?",
+                "options": ["Herd", "Pack", "School", "Flock"],
+                "answer": "School"
+            },
+            {
+                "question": "Identify the type of sentence: 'Please close the door'",
+                "options": ["Declarative", "Interrogative", "Imperative", "Exclamatory"],
+                "answer": "Imperative"
+            },
+            {
+                "question": "What is the meaning of 'Meticulous'?",
+                "options": ["Careless", "Detailed", "Rough", "Quick"],
+                "answer": "Detailed"
+            },
+            {
+                "question": "Choose the correct article: ___ honest man",
+                "options": ["a", "an", "the", "no article"],
+                "answer": "an"
+            },
+            {
+                "question": "What is the superlative form of 'bad'?",
+                "options": ["Badder", "More bad", "Worse", "Worst"],
+                "answer": "Worst"
+            },
+            {
+                "question": "Identify the tense: 'They had left before we arrived'",
+                "options": [
+                    "Past Perfect",
+                    "Past Continuous",
+                    "Past Perfect Continuous",
+                    "Present Perfect"
+                ],
+                "answer": "Past Perfect"
+            },
+            {
+                "question": "What is the opposite of 'Expand'?",
+                "options": ["Contract", "Extend", "Increase", "Enlarge"],
+                "answer": "Contract"
+            },
+            {
+                "question": "Which is the correct idiomatic expression?",
+                "options": [
+                    "Hit the sack",
+                    "Hit the bed",
+                    "Hit the pillow",
+                    "Hit the blanket"
+                ],
+                "answer": "Hit the sack"
+            }
+        ]
+    },
+    {
+        "id": "english-3",
+        "title": "English 3 (TCS NQT Level)",
+        "questions": [
+            {
+                "question": "Choose the correct spelling:",
+                "options": ["Priviledge", "Privilege", "Privelege", "Priveledge"],
+                "answer": "Privilege"
+            },
+            {
+                "question": "What is the antonym of 'Amplify'?",
+                "options": ["Increase", "Decrease", "Magnify", "Enlarge"],
+                "answer": "Decrease"
+            },
+            {
+                "question": "Identify the pronoun: 'She gave the book to them'",
+                "options": ["She", "Gave", "Book", "To"],
+                "answer": "She"
+            },
+            {
+                "question": "Which sentence is in future perfect tense?",
+                "options": [
+                    "I will go to the market",
+                    "I will have gone to the market by then",
+                    "I am going to the market",
+                    "I have gone to the market"
+                ],
+                "answer": "I will have gone to the market by then"
+            },
+            {
+                "question": "Fill the blank: By next year, I ___ here for five years.",
+                "options": ["will work", "will be working", "will have worked", "work"],
+                "answer": "will have worked"
+            },
+            {
+                "question": "What is the plural of 'crisis'?",
+                "options": ["Crises", "Crisises", "Crisis", "Crisi"],
+                "answer": "Crises"
+            },
+            {
+                "question": "Identify the interjection: 'Wow! That's amazing'",
+                "options": ["Wow", "That's", "Amazing", "None"],
+                "answer": "Wow"
+            },
+            {
+                "question": "What is the past tense of 'seek'?",
+                "options": ["Seeked", "Sought", "Seeken", "Sook"],
+                "answer": "Sought"
+            },
+            {
+                "question": "Which is a countable noun?",
+                "options": ["Water", "Sugar", "Book", "Air"],
+                "answer": "Book"
+            },
+            {
+                "question": "Choose the correct punctuation:",
+                "options": [
+                    "The three colors of the Indian flag are saffron, white, and green",
+                    "The three colors of the Indian flag are: saffron, white, and green",
+                    "The three colors of the Indian flag are; saffron, white, and green",
+                    "The three colors of the Indian flag are - saffron, white, and green"
+                ],
+                "answer": "The three colors of the Indian flag are saffron, white, and green"
+            },
+            {
+                "question": "Select the correctly spelled word:",
+                "options": ["Maintenance", "Maintainance", "Maintenence", "Maintanance"],
+                "answer": "Maintenance"
+            },
+            {
+                "question": "What is the synonym of 'Ubiquitous'?",
+                "options": ["Rare", "Everywhere", "Nowhere", "Scarce"],
+                "answer": "Everywhere"
+            },
+            {
+                "question": "Identify the subject: 'After dinner, we watched a movie'",
+                "options": ["Dinner", "We", "Watched", "Movie"],
+                "answer": "We"
+            },
+            {
+                "question": "Which sentence is grammatically correct?",
+                "options": [
+                    "The team are celebrating their victory",
+                    "The team is celebrating their victory",
+                    "The team am celebrating their victory",
+                    "The team be celebrating their victory"
+                ],
+                "answer": "The team is celebrating their victory"
+            },
+            {
+                "question": "What is the feminine of 'Widower'?",
+                "options": ["Widow", "Widoweress", "Widowess", "Widowette"],
+                "answer": "Widow"
+            },
+            {
+                "question": "Choose the correct indirect speech: He said, 'I have finished my work'",
+                "options": [
+                    "He said that he has finished his work",
+                    "He said that he had finished his work",
+                    "He said that I have finished my work",
+                    "He said that I had finished my work"
+                ],
+                "answer": "He said that he had finished his work"
+            },
+            {
+                "question": "Which word is not an adjective?",
+                "options": ["Beautiful", "Quickly", "Tall", "Smart"],
+                "answer": "Quickly"
+            },
+            {
+                "question": "What is the collective noun for a group of wolves?",
+                "options": ["Herd", "Pack", "Flock", "School"],
+                "answer": "Pack"
+            },
+            {
+                "question": "Identify the type of sentence: 'Did you finish your homework?'",
+                "options": ["Declarative", "Interrogative", "Imperative", "Exclamatory"],
+                "answer": "Interrogative"
+            },
+            {
+                "question": "What is the meaning of 'Pragmatic'?",
+                "options": ["Idealistic", "Practical", "Theoretical", "Philosophical"],
+                "answer": "Practical"
+            },
+            {
+                "question": "Choose the correct article: ___ university",
+                "options": ["a", "an", "the", "no article"],
+                "answer": "a"
+            },
+            {
+                "question": "What is the comparative form of 'little' (quantity)?",
+                "options": ["Littler", "Less", "Least", "Littlest"],
+                "answer": "Less"
+            },
+            {
+                "question": "Identify the tense: 'I have been waiting for two hours'",
+                "options": [
+                    "Present Perfect",
+                    "Present Continuous",
+                    "Present Perfect Continuous",
+                    "Past Perfect"
+                ],
+                "answer": "Present Perfect Continuous"
+            },
+            {
+                "question": "What is the opposite of 'Optimistic'?",
+                "options": ["Pessimistic", "Happy", "Cheerful", "Hopeful"],
+                "answer": "Pessimistic"
+            },
+            {
+                "question": "Which is the correct idiomatic expression?",
+                "options": [
+                    "Bite off more than you can chew",
+                    "Bite off more than you can eat",
+                    "Bite off more than you can swallow",
+                    "Bite off more than you can digest"
+                ],
+                "answer": "Bite off more than you can chew"
+            }
+        ]
+    },
+    {
+        "id": "coding-1",
+        "title": "Coding 1 (JavaScript/C++)",
+        "questions": [
+            {
+                "question": "What is the output of the following JavaScript code?\n\nlet x = 5;\nconsole.log(x++ + ++x);",
+                "options": ["10", "11", "12", "13"],
+                "answer": "12"
+            },
+            {
+                "question": "Which C++ code correctly implements a function to find the factorial of a number?",
+                "options": [
+                    "int factorial(int n) {\n  if(n==0) return 1;\n  return n * factorial(n-1);\n}",
+                    "int factorial(int n) {\n  int result = 1;\n  for(int i=1; i<=n; i++) result *= i;\n  return result;\n}",
+                    "Both A and B",
+                    "None of the above"
+                ],
+                "answer": "Both A and B"
+            },
+            {
+                "question": "What does this JavaScript code output?\n\nconsole.log(typeof NaN);",
+                "options": ["\"number\"", "\"string\"", "\"NaN\"", "\"undefined\""],
+                "answer": "\"number\""
+            },
+            {
+                "question": "Which C++ code correctly swaps two variables without a temporary variable?",
+                "options": [
+                    "a = a + b;\nb = a - b;\na = a - b;",
+                    "a ^= b;\nb ^= a;\na ^= b;",
+                    "Both A and B",
+                    "None of the above"
+                ],
+                "answer": "Both A and B"
+            },
+            {
+                "question": "What is the output of this JavaScript code?\n\nlet arr = [1, 2, 3];\narr[10] = 10;\nconsole.log(arr.length);",
+                "options": ["3", "4", "10", "11"],
+                "answer": "11"
+            }
+        ]
+    },
+    {
+        "id": "coding-2",
+        "title": "Coding 2 (JavaScript/C++)",
+        "questions": [
+            {
+                "question": "What does this JavaScript code output?\n\nconsole.log(0.1 + 0.2 === 0.3);",
+                "options": ["true", "false", "undefined", "NaN"],
+                "answer": "false"
+            },
+            {
+                "question": "Which C++ code correctly checks if a number is prime?",
+                "options": [
+                    "bool isPrime(int n) {\n  if(n <= 1) return false;\n  for(int i=2; i*i<=n; i++)\n    if(n%i == 0) return false;\n  return true;\n}",
+                    "bool isPrime(int n) {\n  if(n <= 1) return false;\n  if(n == 2) return true;\n  if(n%2 == 0) return false;\n  for(int i=3; i*i<=n; i+=2)\n    if(n%i == 0) return false;\n  return true;\n}",
+                    "Both A and B",
+                    "None of the above"
+                ],
+                "answer": "Both A and B"
+            },
+            {
+                "question": "What is the output of this JavaScript code?\n\nlet a = {};\nlet b = {};\nconsole.log(a == b);",
+                "options": ["true", "false", "undefined", "Error"],
+                "answer": "false"
+            },
+            {
+                "question": "Which C++ code correctly reverses a string in-place?",
+                "options": [
+                    "void reverse(string &s) {\n  int n = s.length();\n  for(int i=0; i<n/2; i++)\n    swap(s[i], s[n-i-1]);\n}",
+                    "void reverse(string &s) {\n  reverse(s.begin(), s.end());\n}",
+                    "Both A and B",
+                    "None of the above"
+                ],
+                "answer": "Both A and B"
+            },
+            {
+                "question": "What does this JavaScript code output?\n\nconsole.log([] + []);",
+                "options": ["\"\"", "[]", "[object Object]", "0"],
+                "answer": "\"\""
+            }
+        ]
+    },
+    {
+        "id": "coding-3",
+        "title": "Coding 3 (JavaScript/C++)",
+        "questions": [
+            {
+                "question": "What is the output of this JavaScript code?\n\nconsole.log(1 + \"2\" + \"2\");",
+                "options": ["\"122\"", "\"32\"", "5", "\"14\""],
+                "answer": "\"122\""
+            },
+            {
+                "question": "Which C++ code correctly implements binary search?",
+                "options": [
+                    "int binarySearch(int arr[], int l, int r, int x) {\n  while(l <= r) {\n    int m = l + (r-l)/2;\n    if(arr[m] == x) return m;\n    if(arr[m] < x) l = m+1;\n    else r = m-1;\n  }\n  return -1;\n}",
+                    "int binarySearch(int arr[], int n, int x) {\n  int l=0, r=n-1;\n  while(l <= r) {\n    int m = (l+r)/2;\n    if(arr[m] == x) return m;\n    if(arr[m] < x) l = m+1;\n    else r = m-1;\n  }\n  return -1;\n}",
+                    "Both A and B",
+                    "None of the above"
+                ],
+                "answer": "Both A and B"
+            },
+            {
+                "question": "What does this JavaScript code output?\n\nconsole.log(typeof typeof 1);",
+                "options": ["\"number\"", "\"string\"", "\"undefined\"", "\"object\""],
+                "answer": "\"string\""
+            },
+            {
+                "question": "Which C++ code correctly finds the GCD of two numbers?",
+                "options": [
+                    "int gcd(int a, int b) {\n  if(b == 0) return a;\n  return gcd(b, a%b);\n}",
+                    "int gcd(int a, int b) {\n  while(b) {\n    int temp = b;\n    b = a % b;\n    a = temp;\n  }\n  return a;\n}",
+                    "Both A and B",
+                    "None of the above"
+                ],
+                "answer": "Both A and B"
+            },
+            {
+                "question": "What is the output of this JavaScript code?\n\nlet x = 5;\nlet y = (x++, x + 2);\nconsole.log(y);",
+                "options": ["5", "6", "7", "8"],
+                "answer": "7"
+            }
+        ]
+    },
+    {
+        "id": "coding-4",
+        "title": "Coding 4 (JavaScript/C++)",
+        "questions": [
+            {
+                "question": "What is the output of this JavaScript code?\n\nconsole.log([] == ![]);",
+                "options": ["true", "false", "undefined", "Error"],
+                "answer": "true"
+            },
+            {
+                "question": "Which C++ code correctly checks if a string is a palindrome?",
+                "options": [
+                    "bool isPalindrome(string s) {\n  int l=0, r=s.length()-1;\n  while(l < r)\n    if(s[l++] != s[r--]) return false;\n  return true;\n}",
+                    "bool isPalindrome(string s) {\n  string t = s;\n  reverse(t.begin(), t.end());\n  return s == t;\n}",
+                    "Both A and B",
+                    "None of the above"
+                ],
+                "answer": "Both A and B"
+            },
+            {
+                "question": "What does this JavaScript code output?\n\nconsole.log(!!\"false\" == !!!\"true\");",
+                "options": ["true", "false", "undefined", "Error"],
+                "answer": "true"
+            },
+            {
+                "question": "Which C++ code correctly generates Fibonacci numbers up to n?",
+                "options": [
+                    "void fibonacci(int n) {\n  int a=0, b=1;\n  while(a <= n) {\n    cout << a << \" \";\n    int c = a+b;\n    a = b;\n    b = c;\n  }\n}",
+                    "void fibonacci(int n) {\n  if(n >= 0) cout << \"0 \";\n  if(n >= 1) cout << \"1 \";\n  int a=0, b=1, c=1;\n  while(c <= n) {\n    cout << c << \" \";\n    a = b;\n    b = c;\n    c = a+b;\n  }\n}",
+                    "Both A and B",
+                    "None of the above"
+                ],
+                "answer": "Both A and B"
+            },
+            {
+                "question": "What is the output of this JavaScript code?\n\nlet a = [1, 2, 3];\nlet b = a;\nb.push(4);\nconsole.log(a.length);",
+                "options": ["3", "4", "undefined", "Error"],
+                "answer": "4"
+            }
+        ]
+    },
+    {
+        "id": "coding-5",
+        "title": "Coding 5 (JavaScript/C++)",
+        "questions": [
+            {
+                "question": "What is the output of this JavaScript code?\n\nconsole.log(3 > 2 > 1);",
+                "options": ["true", "false", "undefined", "Error"],
+                "answer": "false"
+            },
+            {
+                "question": "Which C++ code correctly implements bubble sort?",
+                "options": [
+                    "void bubbleSort(int arr[], int n) {\n  for(int i=0; i<n-1; i++)\n    for(int j=0; j<n-i-1; j++)\n      if(arr[j] > arr[j+1])\n        swap(arr[j], arr[j+1]);\n}",
+                    "void bubbleSort(int arr[], int n) {\n  bool swapped;\n  do {\n    swapped = false;\n    for(int i=1; i<n; i++)\n      if(arr[i-1] > arr[i]) {\n        swap(arr[i-1], arr[i]);\n        swapped = true;\n      }\n  } while(swapped);\n}",
+                    "Both A and B",
+                    "None of the above"
+                ],
+                "answer": "Both A and B"
+            },
+            {
+                "question": "What does this JavaScript code output?\n\nconsole.log(Math.max() > Math.min());",
+                "options": ["true", "false", "undefined", "Error"],
+                "answer": "false"
+            },
+            {
+                "question": "Which C++ code correctly implements a stack using arrays?",
+                "options": [
+                    "class Stack {\n  int top, capacity, *arr;\npublic:\n  Stack(int size) {\n    capacity = size;\n    top = -1;\n    arr = new int[capacity];\n  }\n  void push(int x) {\n    if(top == capacity-1) return;\n    arr[++top] = x;\n  }\n  int pop() {\n    if(top == -1) return -1;\n    return arr[top--];\n  }\n};",
+                    "class Stack {\n  int top, *arr, capacity;\npublic:\n  Stack(int size) {\n    capacity = size;\n    top = -1;\n    arr = new int[capacity];\n  }\n  bool push(int x) {\n    if(top >= capacity-1) return false;\n    arr[++top] = x;\n    return true;\n  }\n  int pop() {\n    if(top < 0) return -1;\n    return arr[top--];\n  }\n};",
+                    "Both A and B",
+                    "None of the above"
+                ],
+                "answer": "Both A and B"
+            },
+            {
+                "question": "What is the output of this JavaScript code?\n\nlet x = 10;\nlet y = (x > 5) && (x < 15);\nconsole.log(y);",
+                "options": ["true", "false", "10", "undefined"],
+                "answer": "true"
+            }
+        ]
+    }
+]

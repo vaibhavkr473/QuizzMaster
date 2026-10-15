@@ -1,0 +1,1043 @@
+[
+    {
+        "id": "senior-quick-1",
+        "title": "Senior Quick Test (Math)",
+        "questions": [
+            {
+                "question": "The value of lim(x→0) sin(x)/x is:",
+                "options": ["0", "1", "∞", "undefined"],
+                "answer": "1"
+            },
+            {
+                "question": "The integral of 1/x is:",
+                "options": ["ln(x)", "e^x", "x^2", "1/x"],
+                "answer": "ln(x)"
+            },
+            {
+                "question": "The sum of angles in a triangle is:",
+                "options": ["90 degrees", "180 degrees", "360 degrees", "270 degrees"],
+                "answer": "180 degrees"
+            },
+            {
+                "question": "The quadratic formula is used to find:",
+                "options": ["Roots of a quadratic equation", "Area of a triangle", "Volume of a cylinder", "Slope of a line"],
+                "answer": "Roots of a quadratic equation"
+            },
+            {
+                "question": "The value of π (pi) is approximately:",
+                "options": ["3.14", "2.71", "1.41", "1.73"],
+                "answer": "3.14"
+            },
+            {
+                "question": "The derivative of sin(x) is:",
+                "options": ["cos(x)", "-sin(x)", "tan(x)", "sec^2(x)"],
+                "answer": "cos(x)"
+            },
+            {
+                "question": "The area of a circle is given by the formula:",
+                "options": ["πr^2", "2πr", "πd", "4πr^2"],
+                "answer": "πr^2"
+            },
+            {
+                "question": "The Pythagorean theorem relates to:",
+                "options": ["Triangles", "Circles", "Squares", "Rectangles"],
+                "answer": "Triangles"
+            },
+            {
+                "question": "The slope of a line is calculated as:",
+                "options": ["(y2 - y1)/(x2 - x1)", "(x2 - x1)/(y2 - y1)", "(y1 - y2)/(x1 - x2)", "(x1 - x2)/(y1 - y2)"],
+                "answer": "(y2 - y1)/(x2 - x1)"
+            },
+            {
+                "question": "The value of log10(100) is:",
+                "options": ["1", "10", "2", "100"],
+                "answer": "2"
+            },
+            {
+                "question": "The formula for the circumference of a circle is:",
+                "options": ["2πr", "πd", "πr^2", "4r"],
+                "answer": "2πr"
+            },
+            {
+                "question": "The sum of the interior angles of a polygon with n sides is:",
+                "options": ["(n-2)180 degrees", "(n+2)180 degrees", "n180 degrees", "(n-1)180 degrees"],
+                "answer": "(n-2)180 degrees"
+            },
+            {
+                "question": "The value of e (Euler's number) is approximately:",
+                "options": ["2.71", "3.14", "1.41", "1.73"],
+                "answer": "2.71"
+            },
+            {
+                "question": "The formula for the area of a triangle is:",
+                "options": ["(1/2)bh", "(b+h)/2", "(b*h)/2", "(b+h)*2"],
+                "answer": "(1/2)bh"
+            },
+            {
+                "question": "The sine of 90 degrees is:",
+                "options": ["0", "1", "-1", "undefined"],
+                "answer": "1"
+            },
+            {
+                "question": "The cosine of 0 degrees is:",
+                "options": ["0", "-1", "1", "-∞"],
+                "answer": "1"
+            },
+            {
+                "question": "The tangent of 45 degrees is:",
+                "options": ["0", "1", "-1", "undefined"],
+                "answer": "1"
+            },
+            {
+                "question": "The formula for the volume of a cylinder is:",
+                "options": ["πr^2h", "2πrh", "πd^2h", "4/3πr^3"],
+                "answer": "πr^2h"
+            },
+            {
+                "question": "The derivative of x^n is:",
+                "options": ["nx^(n-1)", "(n-1)x^n", "nx^(n+1)", "(n+1)x^n"],
+                "answer": "nx^(n-1)"
+            },
+            {
+                "question": "The integral of x^n is:",
+                "options": ["(x^(n+1))/(n+1)", "(x^(n-1))/(n-1)", "(x^(n+1))/n", "(x^(n-2))/(n-2)"],
+                "answer": "(x^(n+1))/(n+1)"
+            },
+            {
+                "question": "The formula for the area of a rectangle is:",
+                "options": ["lw", "l+w", "2(l+w)", "l^2 + w^2"],
+                "answer": "lw"
+            },
+            {
+                "question": "The value of sin(30 degrees) is:",
+                "options": ["0.5", "1", "-1", "0"],
+                "answer": "0.5"
+            },
+            {
+                "question": "The value of cos(60 degrees) is:",
+                "options": ["0.5", "1", "-1", "0"],
+                "answer": "0.5"
+            },
+            {
+                "question": "The value of tan(45 degrees) is:",
+                "options": ["0", "1", "-1", "undefined"],
+                "answer": "1"
+            }
+        ]
+    },
+    {
+        "id": "senior-math-2",
+        "title": "Class 11-12 Mathematics",
+        "questions": [
+            {
+                "question": "The derivative of e^x is:",
+                "options": ["e^x", "xe^x", "e^(x-1)", "ln(x)"],
+                "answer": "e^x"
+            },
+            {
+                "question": "The integral of e^x is:",
+                "options": ["e^x + C", "xe^x + C", "e^(x-1) + C", "ln(x) + C"],
+                "answer": "e^x + C"
+            },
+            {
+                "question": "The limit of (1/x) as x approaches 0 is:",
+                "options": ["0", "∞", "-∞", "undefined"],
+                "answer": "∞"
+            },
+            {
+                "question": "The value of sin(90 degrees) is:",
+                "options": ["0", "1", "-1", "undefined"],
+                "answer": "1"
+            },
+            {
+                "question": "The value of cos(90 degrees) is:",
+                "options": ["0", "-1", "1", "-∞"],
+                "answer": "0"
+            },
+            {
+                "question": "The value of tan(90 degrees) is:",
+                "options": ["0", "-1", "1", "-∞"],
+                "answer": "-∞"
+            },
+            {
+                "question": "The formula for the area of a trapezoid is:",
+                "options": ["(b1 + b2)/2 * h", "(b1 - b2)/2 * h", "(b1 * b2)/2 * h", "(b1 + b2) * h"],
+                "answer": "(b1 + b2)/2 * h"
+            },
+            {
+                "question": "The formula for the volume of a sphere is:",
+                "options": ["(4/3)πr^3", "(4/3)πr^2h", "(4/3)πd^3", "(4/3)πr^2"],
+                "answer": "(4/3)πr^3"
+            },
+            {
+                "question": "The formula for the surface area of a sphere is:",
+                "options": ["4πr^2", "(4/3)πr^3", "(4/3)πd^2", "(4/3)πr"],
+                "answer": "4πr^2"
+            },
+            {
+                "question": "The formula for the area of a parallelogram is:",
+                "options": ["bh", "l+w", "2(l+w)", "l^2 + w^2"],
+                "answer": "bh"
+            },
+            {
+                "question": "The formula for the volume of a cone is:",
+                "options": ["(1/3)πr^2h", "(1/3)πd^2h", "(1/3)πr^3", "(1/3)πrh"],
+                "answer": "(1/3)πr^2h"
+            },
+            {
+                "question": "The formula for the area of a rhombus is:",
+                "options": ["(d1 * d2)/2", "(d1 + d2)/2", "(d1 - d2)/2", "(d1 * d2)"],
+                "answer": "(d1 * d2)/2"
+            },
+            {
+                "question": "The formula for the perimeter of a rectangle is:",
+                "options": ["2(l + w)", "l + w", "lw", "l^2 + w^2"],
+                "answer": "2(l + w)"
+            },
+            {
+                "question": "The formula for the perimeter of a triangle is:",
+                "options": ["a + b + c", "(a + b)/c", "(a - b)/c", "(a * b)/c"],
+                "answer": "a + b + c"
+            },
+            {
+                "question": "The formula for the area of a square is:",
+                "options": ["s^2", "4s", "(s^2)/4", "(s + s)^2"],
+                "answer": "s^2"
+            },
+            {
+                "question": "The formula for the volume of a cube is:",
+                "options": ["s^3", "(s^3)/3", "(s^3)/4", "(s + s)^3"],
+                "answer": "s^3"
+            },
+            {
+                "question": "The formula for the surface area of a cube is:",
+                "options": ["6s^2", "(6s^2)/3", "(6s^2)/4", "(6s + s)^2"],
+                "answer": "6s^2"
+            },
+            {
+                "question": "The formula for the area of a circle is:",
+                "options": ["πr^2", "2πr", "πd", "4πr^2"],
+                "answer": "πr^2"
+            },
+            {
+                "question": "The formula for the circumference of a circle is:",
+                "options": ["2πr", "πd", "πr^2", "4r"],
+                "answer": "2πr"
+            },
+            {
+                "question": "The formula for the area of an ellipse is:",
+                "options": ["πab", "(a + b)/2", "(a - b)/2", "(a * b)"],
+                "answer": "πab"
+            },
+            {
+                "question": "The formula for the volume of a prism is:",
+                "options": ["Bh", "(B + h)/2", "(B - h)/2", "(B * h)"],
+                "answer": "Bh"
+            },
+            {
+                "question": "The formula for the surface area of a prism is:",
+                "options": ["2B + Ph", "B + Ph", "2B - Ph", "2B * Ph"],
+                "answer": "2B + Ph"
+            },
+            {
+                "question": "The formula for the area of a sector is:",
+                "options": ["(θ/360)πr^2", "(θ/180)πr^2", "(θ/90)πr^2", "(θ/45)πr^2"],
+                "answer": "(θ/360)πr^2"
+            },
+            {
+                "question": "The formula for the length of an arc is:",
+                "options": ["(θ/360) * 2πr", "(θ/180) * 2πr", "(θ/90) * 2πr", "(θ/45) * 2πr"],
+                "answer": "(θ/360) * 2πr"
+            }
+        ]
+    },
+    {
+        "id": "physics-electrostatics-1",
+        "title": "Electrostatics - Test 1",
+        "questions": [
+          {
+            "question": "What is the SI unit of electric flux?",
+            "options": ["Volt", "Newton/Coulomb", "Weber", "Nm²/C"],
+            "answer": "Nm²/C"
+          },
+          {
+            "question": "The force between two point charges is F. If the distance between them is doubled, the new force will be:",
+            "options": ["F/2", "F/4", "2F", "4F"],
+            "answer": "F/4"
+          },
+          {
+            "question": "Which material has dielectric constant less than 1?",
+            "options": ["Water", "Mica", "Air", "Glass"],
+            "answer": "Air"
+          },
+          {
+            "question": "Gauss's law is valid for:",
+            "options": ["Any closed surface", "Only spherical surfaces", "Only symmetrical charge distributions", "Any open surface"],
+            "answer": "Any closed surface"
+          },
+          {
+            "question": "The work done in moving a unit positive charge between two points in an electric field is a measure of:",
+            "options": ["Electric field intensity", "Potential difference", "Current", "Resistance"],
+            "answer": "Potential difference"
+          },
+          {
+            "question": "The electric field inside a conductor in electrostatic equilibrium is:",
+            "options": ["Zero", "Constant", "Radial", "Circular"],
+            "answer": "Zero"
+          },
+          {
+            "question": "Which of the following is NOT a property of electric field lines?",
+            "options": ["Never intersect", "Start from +ve charge", "End at -ve charge", "Have physical existence"],
+            "answer": "Have physical existence"
+          },
+          {
+            "question": "The capacitance of a parallel plate capacitor increases with:",
+            "options": ["Decreasing plate area", "Increasing separation", "Introducing dielectric", "Increasing charge"],
+            "answer": "Introducing dielectric"
+          },
+          {
+            "question": "The potential energy of a dipole in uniform electric field is minimum when angle between p and E is:",
+            "options": ["0°", "90°", "180°", "270°"],
+            "answer": "0°"
+          },
+          {
+            "question": "The number of electrons in 1 Coulomb of charge is approximately:",
+            "options": ["6.25×10¹⁸", "1.6×10⁻¹⁹", "3×10⁸", "9×10⁹"],
+            "answer": "6.25×10¹⁸"
+          },
+          {
+            "question": "If electric flux through a closed surface is zero, then:",
+            "options": ["No charge inside", "Net charge inside zero", "Uniform field", "No field"],
+            "answer": "Net charge inside zero"
+          },
+          {
+            "question": "The dielectric constant K of a medium is:",
+            "options": ["<1", "≥1", "Always >1", "0"],
+            "answer": "≥1"
+          },
+          {
+            "question": "The electric potential due to a point charge q at distance r is proportional to:",
+            "options": ["q²", "1/q", "q", "1/q²"],
+            "answer": "q"
+          },
+          {
+            "question": "The equipotential surfaces around a point charge are:",
+            "options": ["Spheres", "Cubes", "Cylinders", "Planes"],
+            "answer": "Spheres"
+          },
+          {
+            "question": "The energy density in electric field E is:",
+            "options": ["ε₀E", "½ε₀E²", "ε₀E²", "½ε₀E"],
+            "answer": "½ε₀E²"
+          },
+          {
+            "question": "The principle used in Van de Graaff generator is:",
+            "options": ["Electromagnetic induction", "Electrostatic shielding", "Corona discharge", "Charge resides on outer surface"],
+            "answer": "Charge resides on outer surface"
+          },
+          {
+            "question": "The capacitance of earth (radius 6400 km) is approximately:",
+            "options": ["1F", "1mF", "711μF", "100pF"],
+            "answer": "711μF"
+          },
+          {
+            "question": "The ratio of forces between two electrons to two protons at same separation is:",
+            "options": ["1", ">1", "<1", "0"],
+            "answer": "1"
+          },
+          {
+            "question": "The electric field at a point due to infinite plane sheet of charge is:",
+            "options": ["Dependent on distance", "Inversely dependent on distance", "Constant", "Zero"],
+            "answer": "Constant"
+          },
+          {
+            "question": "The potential gradient is numerically equal to:",
+            "options": ["Electric flux", "Electric potential", "Electric field", "Electric charge"],
+            "answer": "Electric field"
+          }
+        ]
+    },
+    {
+        "id": "physics-electrostatics-2",
+        "title": "Electrostatics - Test 2",
+        "questions": [
+          {
+            "question": "A capacitor of 4μF is connected to 400V supply. The energy stored is:",
+            "options": ["0.32J", "0.64J", "1.28J", "2.56J"],
+            "answer": "0.32J"
+          },
+          {
+            "question": "The electric field inside a hollow charged spherical conductor is:",
+            "options": ["Infinite", "Zero", "Same as surface", "Half of surface"],
+            "answer": "Zero"
+          },
+          {
+            "question": "The dielectric strength of air is about:",
+            "options": ["1 V/m", "3×10⁶ V/m", "1×10¹² V/m", "Infinite"],
+            "answer": "3×10⁶ V/m"
+          },
+          {
+            "question": "If 10¹² electrons are removed from a neutral metal sphere, the charge on the sphere becomes:",
+            "options": ["+1.6μC", "-1.6μC", "+16μC", "-16μC"],
+            "answer": "+1.6μC"
+          },
+          {
+            "question": "The equivalent capacitance between A and B in parallel combination of two capacitors C₁ and C₂ is:",
+            "options": ["C₁+C₂", "1/C₁+1/C₂", "C₁C₂/(C₁+C₂)", "√(C₁C₂)"],
+            "answer": "C₁+C₂"
+          },
+          {
+            "question": "The electric potential at a point due to a dipole varies as:",
+            "options": ["1/r", "1/r²", "1/r³", "1/r⁴"],
+            "answer": "1/r²"
+          },
+          {
+            "question": "The torque on a dipole in uniform electric field is maximum when angle between p and E is:",
+            "options": ["0°", "45°", "90°", "180°"],
+            "answer": "90°"
+          },
+          {
+            "question": "The dimensional formula of electric flux is:",
+            "options": ["[ML²T⁻³A⁻¹]", "[ML³T⁻³A⁻¹]", "[MLT⁻³A⁻¹]", "[ML²T⁻²A⁻¹]"],
+            "answer": "[ML³T⁻³A⁻¹]"
+          },
+          {
+            "question": "The potential energy of a system of two charges q₁ and q₂ separated by r is:",
+            "options": ["q₁q₂/r", "q₁q₂/4πε₀r", "q₁+q₂/r", "q₁+q₂/4πε₀r"],
+            "answer": "q₁q₂/4πε₀r"
+          },
+          {
+            "question": "The electric field at the surface of a charged conductor is:",
+            "options": ["Zero", "σ/ε₀", "σ/2ε₀", "Infinite"],
+            "answer": "σ/ε₀"
+          },
+          {
+            "question": "The capacitance of a capacitor depends on:",
+            "options": ["Charge given", "Potential applied", "Geometry of conductors", "All of these"],
+            "answer": "Geometry of conductors"
+          },
+          {
+            "question": "The energy stored in a charged capacitor resides in:",
+            "options": ["Plates", "Battery", "Electric field", "Connecting wires"],
+            "answer": "Electric field"
+          },
+          {
+            "question": "The electric field intensity at a point due to an infinite line charge varies as:",
+            "options": ["1/r", "1/r²", "1/r³", "Independent of r"],
+            "answer": "1/r"
+          },
+          {
+            "question": "The work done in rotating an electric dipole in uniform electric field from θ=0° to θ=180° is:",
+            "options": ["Zero", "pE", "2pE", "4pE"],
+            "answer": "2pE"
+          },
+          {
+            "question": "The dielectric constant of a metal is:",
+            "options": ["Zero", "1", "Infinite", "Negative"],
+            "answer": "Infinite"
+          },
+          {
+            "question": "The electric field inside a uniformly charged spherical shell is:",
+            "options": ["Zero", "Constant", "Proportional to r", "Proportional to 1/r²"],
+            "answer": "Zero"
+          },
+          {
+            "question": "The potential difference between two points in an electric field is 10V. The work done to move 2C charge is:",
+            "options": ["5J", "10J", "20J", "40J"],
+            "answer": "20J"
+          },
+          {
+            "question": "The unit of permittivity of free space (ε₀) is:",
+            "options": ["C²/Nm²", "Nm²/C²", "Farad/m", "All of these"],
+            "answer": "All of these"
+          },
+          {
+            "question": "The electric field lines between two parallel plates with equal and opposite charges are:",
+            "options": ["Circular", "Radial", "Parallel straight lines", "Nonexistent"],
+            "answer": "Parallel straight lines"
+          },
+          {
+            "question": "The ratio of electric force to gravitational force between two electrons is of the order of:",
+            "options": ["10⁴²", "10³⁶", "10²⁴", "10¹⁸"],
+            "answer": "10⁴²"
+          }
+        ]
+    },
+    {
+        "id": "chemistry-solutions-1",
+        "title": "Solutions - Test 1",
+        "questions": [
+          {
+            "question": "The mole fraction of solute in 1 molal aqueous solution is:",
+            "options": ["0.0177", "0.0344", "0.5", "1"],
+            "answer": "0.0177"
+          },
+          {
+            "question": "Which condition is NOT required for ideal solutions?",
+            "options": ["ΔH_mix = 0", "ΔV_mix = 0", "Obey Raoult's law", "ΔS_mix = 0"],
+            "answer": "ΔS_mix = 0"
+          },
+          {
+            "question": "The van't Hoff factor for 0.1M BaCl₂ solution is 2.5. The degree of dissociation is:",
+            "options": ["0.25", "0.50", "0.75", "1.0"],
+            "answer": "0.75"
+          },
+          {
+            "question": "Which has the highest boiling point elevation?",
+            "options": ["0.1M glucose", "0.1M NaCl", "0.1M BaCl₂", "0.1M AlCl₃"],
+            "answer": "0.1M AlCl₃"
+          },
+          {
+            "question": "The solubility of gas in liquid increases with:",
+            "options": ["Increase in temperature", "Decrease in pressure", "Increase in pressure", "Decrease in both"],
+            "answer": "Increase in pressure"
+          },
+          {
+            "question": "The molality of 98% H₂SO₄ (d=1.8g/mL) is approximately:",
+            "options": ["1m", "10m", "100m", "500m"],
+            "answer": "10m"
+          },
+          {
+            "question": "Which colligative property gives molar mass with least error?",
+            "options": ["Lowering of VP", "Elevation of BP", "Depression of FP", "Osmotic pressure"],
+            "answer": "Osmotic pressure"
+          },
+          {
+            "question": "The azeotropic mixture of HCl-H₂O boils at:",
+            "options": ["100°C", "78°C", "108°C", "120°C"],
+            "answer": "108°C"
+          },
+          {
+            "question": "Henry's law constant for O₂ in water is 1.3×10⁻³ mol/L-atm. The solubility at 0.2 atm is:",
+            "options": ["2.6×10⁻⁴M", "1.3×10⁻³M", "6.5×10⁻⁴M", "1.3×10⁻²M"],
+            "answer": "2.6×10⁻⁴M"
+          },
+          {
+            "question": "Which shows positive deviation from Raoult's law?",
+            "options": ["Acetone-CHCl₃", "Acetone-CS₂", "Acetone-Aniline", "Acetone-Ethanol"],
+            "answer": "Acetone-Ethanol"
+          },
+          {
+            "question": "The osmotic pressure of 0.1M NaCl at 27°C is:",
+            "options": ["2.46 atm", "4.92 atm", "1.23 atm", "0.61 atm"],
+            "answer": "2.46 atm"
+          },
+          {
+            "question": "The unit of ebullioscopic constant is:",
+            "options": ["K kg mol⁻¹", "mol kg⁻¹ K⁻¹", "K⁻¹ mol⁻¹", "kg K⁻¹ mol⁻¹"],
+            "answer": "K kg mol⁻¹"
+          },
+          {
+            "question": "Which has highest freezing point?",
+            "options": ["0.1M glucose", "0.1M NaCl", "0.1M CaCl₂", "0.1M AlCl₃"],
+            "answer": "0.1M glucose"
+          },
+          {
+            "question": "The solubility product of AgCl is 1.6×10⁻¹⁰. Its solubility in mol/L is:",
+            "options": ["1.6×10⁻⁵", "1.26×10⁻⁵", "0.8×10⁻⁵", "3.2×10⁻⁵"],
+            "answer": "1.26×10⁻⁵"
+          },
+          {
+            "question": "The depression in freezing point is maximum for:",
+            "options": ["K₂SO₄", "NaCl", "Urea", "Glucose"],
+            "answer": "K₂SO₄"
+          },
+          {
+            "question": "The van't Hoff factor for Al₂(SO₄)₃ in dilute solution is:",
+            "options": ["1", "2", "3", "5"],
+            "answer": "5"
+          },
+          {
+            "question": "Which is NOT a colligative property?",
+            "options": ["Lowering of VP", "Elevation of BP", "Osmotic pressure", "Surface tension"],
+            "answer": "Surface tension"
+          },
+          {
+            "question": "The mole fraction of water in 1 molal glucose solution is:",
+            "options": ["0.0177", "0.9823", "0.5", "0.1"],
+            "answer": "0.9823"
+          },
+          {
+            "question": "Which mixture forms minimum boiling azeotrope?",
+            "options": ["HNO₃-H₂O", "HCl-H₂O", "Ethanol-water", "Acetone-CHCl₃"],
+            "answer": "Ethanol-water"
+          },
+          {
+            "question": "The ratio of osmotic pressures of 0.1M NaCl and 0.1M glucose is:",
+            "options": ["1:1", "1:2", "2:1", "1:4"],
+            "answer": "2:1"
+          }
+        ]
+    },
+    {
+        "id": "maths-algebra-1",
+        "title": "Algebra - Test 1",
+        "questions": [
+          {
+            "question": "If A is a square matrix such that A² = A, then (I + A)³ - 7A is equal to:",
+            "options": ["A", "I - A", "I", "3A"],
+            "answer": "I"
+          },
+          {
+            "question": "The number of terms in the expansion of (x + a)¹⁰⁰ + (x - a)¹⁰⁰ is:",
+            "options": ["50", "51", "100", "101"],
+            "answer": "51"
+          },
+          {
+            "question": "If |z - 4| < |z - 2|, then:",
+            "options": ["Re(z) > 3", "Re(z) < 3", "Re(z) > 2", "Re(z) < 2"],
+            "answer": "Re(z) > 3"
+          },
+          {
+            "question": "The sum of the series 1 + 2(1 + 1/n) + 3(1 + 1/n)² + ... to n terms is:",
+            "options": ["n²", "n(n+1)", "n(n-1)", "n²-1"],
+            "answer": "n²"
+          },
+          {
+            "question": "The number of real solutions of the equation sin(eˣ) = 2ˣ + 2⁻ˣ is:",
+            "options": ["0", "1", "2", "Infinite"],
+            "answer": "0"
+          },
+          {
+            "question": "If A and B are symmetric matrices, then ABA is:",
+            "options": ["Symmetric", "Skew-symmetric", "Diagonal", "None"],
+            "answer": "Symmetric"
+          },
+          {
+            "question": "The modulus of (1 + i)(2 + i)/3 - i is:",
+            "options": ["√5", "5/√10", "√10", "1"],
+            "answer": "√5"
+          },
+          {
+            "question": "If A is orthogonal matrix, then |A| is:",
+            "options": ["0", "1", "-1", "±1"],
+            "answer": "±1"
+          },
+          {
+            "question": "The coefficient of xⁿ in expansion of (1+x)(1-x)ⁿ is:",
+            "options": ["(-1)ⁿ(1-n)", "(-1)ⁿ(1+n)", "(-1)ⁿ⁻¹n", "n"],
+            "answer": "(-1)ⁿ(1-n)"
+          },
+          {
+            "question": "If ω is cube root of unity, then (1-ω+ω²)(1+ω-ω²) equals:",
+            "options": ["0", "1", "2", "4"],
+            "answer": "4"
+          },
+          {
+            "question": "The number of distinct roots of |sinx cosx cosx; cosx sinx cosx; cosx cosx sinx| = 0 in [-π/4, π/4] is:",
+            "options": ["0", "1", "2", "3"],
+            "answer": "1"
+          },
+          {
+            "question": "If A² - A + I = 0, then A⁻¹ is:",
+            "options": ["A⁻²", "A + I", "I - A", "A - I"],
+            "answer": "I - A"
+          },
+          {
+            "question": "The argument of (1 - i√3)/(1 + i√3) is:",
+            "options": ["60°", "120°", "240°", "300°"],
+            "answer": "240°"
+          },
+          {
+            "question": "If (1+i)(1+2i)(1+3i)...(1+ni) = x+iy, then 2×5×10×...×(1+n²) equals:",
+            "options": ["x² - y²", "x² + y²", "x + y", "x - y"],
+            "answer": "x² + y²"
+          },
+          {
+            "question": "The number of terms in the expansion of (1 + 2x + x²)²⁰ is:",
+            "options": ["20", "21", "40", "41"],
+            "answer": "41"
+          },
+          {
+            "question": "If A is skew-symmetric matrix of odd order, then |A| equals:",
+            "options": ["0", "1", "-1", "Cannot determine"],
+            "answer": "0"
+          },
+          {
+            "question": "The complex number z satisfying |z-1| = |z-3| and |z-2| = |z-4| is:",
+            "options": ["2.5", "2.5 + 0.5i", "2.5 - 0.5i", "2 + 2.5i"],
+            "answer": "2.5"
+          },
+          {
+            "question": "If A is idempotent matrix, then (I + A)ⁿ equals:",
+            "options": ["I + A", "I + 2ⁿA", "I + (2ⁿ - 1)A", "I - A"],
+            "answer": "I + (2ⁿ - 1)A"
+          },
+          {
+            "question": "The number of real values of a for which (a² - 1) + (a + 1)i is purely imaginary is:",
+            "options": ["0", "1", "2", "Infinite"],
+            "answer": "1"
+          },
+          {
+            "question": "If A and B are square matrices such that AB = A and BA = B, then:",
+            "options": ["A² = A, B² = B", "A = B", "A = I or B = I", "A and B are singular"],
+            "answer": "A² = A, B² = B"
+          }
+        ]
+    },
+    {
+        "id": "biology-genetics-1",
+        "title": "Genetics - Test 1",
+        "questions": [
+          {
+            "question": "The distance between two genes on a chromosome is measured in:",
+            "options": ["Angstrom", "Nanometer", "Centimorgan", "Base pairs"],
+            "answer": "Centimorgan"
+          },
+          {
+            "question": "In a dihybrid cross AaBb × AaBb, the ratio of AaBb offspring is:",
+            "options": ["1/16", "1/8", "1/4", "1/2"],
+            "answer": "1/4"
+          },
+          {
+            "question": "Which law is demonstrated when alleles separate during gamete formation?",
+            "options": ["Law of dominance", "Law of segregation", "Law of independent assortment", "Law of linkage"],
+            "answer": "Law of segregation"
+          },
+          {
+            "question": "The phenomenon where a gene affects multiple traits is called:",
+            "options": ["Pleiotropy", "Polygenic inheritance", "Codominance", "Epistasis"],
+            "answer": "Pleiotropy"
+          },
+          {
+            "question": "Which blood type is universal donor?",
+            "options": ["A", "B", "AB", "O"],
+            "answer": "O"
+          },
+          {
+            "question": "The chromosomal theory of inheritance was proposed by:",
+            "options": ["Mendel", "Morgan", "Sutton and Boveri", "Watson and Crick"],
+            "answer": "Sutton and Boveri"
+          },
+          {
+            "question": "A test cross is used to determine:",
+            "options": ["Genotype of dominant phenotype", "Phenotype ratio", "Linkage groups", "Mutation rate"],
+            "answer": "Genotype of dominant phenotype"
+          },
+          {
+            "question": "Which is NOT a sex-linked disorder?",
+            "options": ["Hemophilia", "Color blindness", "Sickle cell anemia", "Duchenne muscular dystrophy"],
+            "answer": "Sickle cell anemia"
+          },
+          {
+            "question": "The ABO blood group system demonstrates:",
+            "options": ["Complete dominance", "Incomplete dominance", "Codominance", "Epistasis"],
+            "answer": "Codominance"
+          },
+          {
+            "question": "The frequency of recombination between two genes:",
+            "options": ["Is always 50%", "Depends on distance", "Is higher for closer genes", "Is constant"],
+            "answer": "Depends on distance"
+          },
+          {
+            "question": "Which ratio indicates epistasis?",
+            "options": ["9:3:3:1", "9:7", "1:2:1", "3:1"],
+            "answer": "9:7"
+          },
+          {
+            "question": "Down syndrome results from:",
+            "options": ["Trisomy 21", "Monosomy X", "XXY", "Deletion"],
+            "answer": "Trisomy 21"
+          },
+          {
+            "question": "The process of DNA replication is:",
+            "options": ["Conservative", "Semi-conservative", "Dispersive", "Random"],
+            "answer": "Semi-conservative"
+          },
+          {
+            "question": "Which enzyme joins Okazaki fragments?",
+            "options": ["DNA polymerase", "Helicase", "Ligase", "Primase"],
+            "answer": "Ligase"
+          },
+          {
+            "question": "The central dogma of molecular biology is:",
+            "options": ["DNA → RNA → Protein", "RNA → DNA → Protein", "Protein → RNA → DNA", "DNA → Protein → RNA"],
+            "answer": "DNA → RNA → Protein"
+          },
+          {
+            "question": "Which is NOT part of an operon?",
+            "options": ["Promoter", "Operator", "Structural genes", "Enhancer"],
+            "answer": "Enhancer"
+          },
+          {
+            "question": "The lac operon is regulated by:",
+            "options": ["Lactose only", "Glucose only", "Both lactose and glucose", "Neither"],
+            "answer": "Both lactose and glucose"
+          },
+          {
+            "question": "The human genome contains about:",
+            "options": ["1000 genes", "20,000 genes", "100,000 genes", "1 million genes"],
+            "answer": "20,000 genes"
+          },
+          {
+            "question": "PCR is used to:",
+            "options": ["Cut DNA", "Amplify DNA", "Sequence DNA", "Translate DNA"],
+            "answer": "Amplify DNA"
+          },
+          {
+            "question": "Restriction enzymes are used in:",
+            "options": ["PCR", "Gel electrophoresis", "DNA fingerprinting", "All of these"],
+            "answer": "DNA fingerprinting"
+          }
+        ]
+    },
+    {
+        "id": "maths-calculus-1",
+        "title": "Calculus - Test 1",
+        "questions": [
+            {
+                "question": "The derivative of sin(x) is:",
+                "options": ["cos(x)", "-sin(x)", "sin(x)", "-cos(x)"],
+                "answer": "cos(x)"
+            },
+            {
+                "question": "The integral of e^x dx is:",
+                "options": ["e^x + C", "e^x", "ln(e^x)", "x * e^x"],
+                "answer": "e^x + C"
+            },
+            {
+                "question": "The limit of (1/x) as x approaches infinity is:",
+                "options": ["0", "1", "-1", "∞"],
+                "answer": "0"
+            },
+            {
+                "question": "The second derivative of x² is:",
+                "options": ["2", "-2", "0", "4"],
+                "answer": "2"
+            },
+            {
+                "question": "The area under the curve y = x² from x = 0 to x = 1 is:",
+                "options": ["1/3", "1/2", "1", "2"],
+                "answer": "1/3"
+            },
+            {
+                "question": "(d/dx)(sin²(x)) equals:",
+                "options": ["2sin(x)cos(x)", "-2sin(x)cos(x)", "(sin²(x))'", "(sin²(x))''"],
+                "answer": "-2sin(x)cos(x)"
+            },
+            {
+                "question": "(∫ e^x dx) equals:",
+                "options": ["e^x + C", "(e^x)/x + C", "(e^x)/ln(e) + C", "(e^x)/e + C"],
+                "answer": "(e^x)/ln(e) + C"
+            },
+            {
+                "question": "(∫ x dx) equals:",
+                "options": ["(x²)/2 + C", "(x³)/3 + C", "(x⁴)/4 + C", "(x²)/3 + C"],
+                "answer": "(x²)/2 + C"
+            },
+            {
+                "question": "The derivative of ln(x) is:",
+                "options": ["1/x", "-1/x", "ln(x)", "x"],
+                "answer": "1/x"
+            },
+            {
+                "question": "The integral of 1/x dx is:",
+                "options": ["ln|x| + C", "x + C", "(1/x) + C", "(x²)/2 + C"],
+                "answer": "ln|x| + C"
+            },
+            {
+                "question": "The limit of (sin(x)/x) as x approaches 0 is:",
+                "options": ["1", "0", "-1", "∞"],
+                "answer": "1"
+            },
+            {
+                "question": "(d/dx)(tan(x)) equals:",
+                "options": ["sec²(x)", "-sec²(x)", "(tan(x))'", "(tan(x))''"],
+                "answer": "sec²(x)"
+            },
+            {
+                "question": "(∫ cos(x) dx) equals:",
+                "options": ["sin(x) + C", "-sin(x) + C", "(cos(x))'", "(cos(x))''"],
+                "answer": "sin(x) + C"
+            },
+            {
+                "question": "(d/dx)(x³) equals:",
+                "options": ["3x²", "-3x²", "(x³)'", "(x³)''"],
+                "answer": "3x²"
+            },
+            {
+                "question": "(∫ x² dx) equals:",
+                "options": ["(x³)/3 + C", "(x⁴)/4 + C", "(2/3)x³ + C", "(3/4)x² + C"],
+                "answer": "(x³)/3 + C"
+            },
+            {
+                "question": "(d/dx)(e^x) equals:",
+                "options": ["e^x", "-e^x", "(e^x)'", "(e^x)''"],
+                "answer": "e^x"
+            },
+            {
+                "question": "(∫ sin(x) dx) equals:",
+                "options": ["-cos(x) + C", "cos(x) + C", "-sin(x) + C", "(sin(x))'"],
+                "answer": "-cos(x) + C"
+            },
+            {
+                "question": "The derivative of x^n is:",
+                "options": ["nx^(n-1)", "-nx^(n-1)", "(x^n)'", "(x^n)''"],
+                "answer": "nx^(n-1)"
+            },
+            {
+                "question": "(∫ 1/x² dx) equals:",
+                "options": ["-1/x + C", "1/x + C", "(1/x²) + C", "(2/x) + C"],
+                "answer": "-1/x + C"
+            },
+            {
+                "question": "The integral of sec²(x) dx is:",
+                "options": ["tan(x) + C", "-tan(x) + C", "(sec²(x))'", "(sec²(x))''"],
+                "answer": "tan(x) + C"
+            },
+            {
+                "question": "(d/dx)(ln(x²)) equals:",
+                "options": ["2/x", "-2/x", "(ln(x²))'", "(ln(x²))''"],
+                "answer": "2/x"
+            },
+            {
+                "question": "(∫ x^n dx) equals:",
+                "options": ["(x^(n+1))/(n+1) + C", "(x^(n-1))/(n-1) + C", "(n/x^(n-1)) + C", "(x^(n+1))/n + C"],
+                "answer": "(x^(n+1))/(n+1) + C"
+            },
+            {
+                "question": "The derivative of cos(x) is:",
+                "options": ["-sin(x)", "sin(x)", "-cos(x)", "0"],
+                "answer": "-sin(x)"
+            },
+            {
+                "question": "(∫ tan(x) dx) equals:",
+                "options": ["-ln|cos(x)| + C", "ln|sin(x)| + C", "-ln|sin(x)| + C", "ln|cos(x)| + C"],
+                "answer": "-ln|cos(x)| + C"
+            },
+            {
+                "question": "(d/dx)(x^2 + 3x + 5) equals:",
+                "options": ["2x + 3", "-2x - 3", "(x^2 + 3x + 5)'", "(x^2 + 3x + 5)''"],
+                "answer": "2x + 3"
+            },
+            {
+                "question": "(∫ e^(2x) dx) equals:",
+                "options": ["(1/2)e^(2x) + C", "(1/4)e^(2x) + C", "(e^(2x))/2 + C", "(e^(2x))/4 + C"],
+                "answer": "(1/2)e^(2x) + C"
+            },
+            {
+                "question": "(d/dx)(x^3 + 2x^2 + 3x) equals:",
+                "options": ["3x^2 + 4x + 3", "-3x^2 - 4x - 3", "(x^3 + 2x^2 + 3x)'", "(x^3 + 2x^2 + 3x)''"],
+                "answer": "3x^2 + 4x + 3"
+            },
+            {
+                "question": "(∫ cos(2x) dx) equals:",
+                "options": ["(1/2)sin(2x) + C", "(1/4)sin(2x) + C", "(1/2)cos(2x) + C", "(1/4)cos(2x) + C"],
+                "answer": "(1/2)sin(2x) + C"
+            }
+        ]
+    },
+    {
+        "id": "physics-thermodynamics-1",
+        "title": "Thermodynamics - Test 1",
+        "questions": [
+          {
+            "question": "The first law of thermodynamics is a statement of:",
+            "options": ["Conservation of energy", "Conservation of mass", "Conservation of momentum", "Conservation of charge"],
+            "answer": "Conservation of energy"
+          },
+          {
+            "question": "The work done in an isothermal process is:",
+            "options": ["Zero", "Positive", "Negative", "Depends on temperature"],
+            "answer": "Positive"
+          },
+          {
+            "question": "The efficiency of Carnot engine depends on:",
+            "options": ["Temperature difference", "Heat absorbed", "Heat rejected", "All of these"],
+            "answer": "Temperature difference"
+          },
+          {
+            "question": "The entropy of a perfect crystal at absolute zero is:",
+            "options": ["Zero", "Maximum", "Minimum", "Undefined"],
+            "answer": "Zero"
+          },
+          {
+            "question": "The specific heat at constant volume (Cᵥ) for an ideal gas is:",
+            "options": ["R/2", "R/3", "R/4", "R"],
+            "answer": "R/2"
+          },
+          {
+            "question": "The change in internal energy (ΔU) for an ideal gas during an isothermal process is:",
+            "options": ["Zero", "<0", ">0", "=PV"],
+            "answer": "<0"
+          },
+          {
+            "question": "(ΔH) for an endothermic reaction is:",
+            "options": ["Positive", "<0", ">0", "=0"],
+            "answer": ">0"
+          },
+          {
+            "question": "(ΔS) for a spontaneous process is:",
+            "options": ["Positive", "<0", ">0", "=0"],
+            "answer": ">0"
+          },
+          {
+            "question": "(ΔG) for a spontaneous process is:",
+            "options": ["Positive", "<0", ">0", "=0"],
+            "answer": "<0"
+          },
+          {
+            "question": "(ΔU) for an adiabatic process is equal to:",
+            "options": ["Q + W", "Q - W", "W", "Q"],
+            "answer": "Q + W"
+        },
+          {
+            "question": "The heat capacity of a gas at constant volume (Cᵥ) is:",
+            "options": ["R", "2R", "3R", "4R"],
+            "answer": "R"
+          },
+          {
+            "question": "The heat capacity ratio (γ) for a diatomic gas is:",
+            "options": ["1", "1.4", "1.67", "2"],
+            "answer": "1.4"
+          },
+          {
+            "question": "The heat capacity of a gas at constant pressure (Cₚ) is:",
+            "options": ["R", "2R", "3R", "4R"],
+            "answer": "2R"
+          },
+          {
+            "question": "The work done by an ideal gas during an isothermal expansion is:",
+            "options": ["Zero", "Positive", "Negative", "Depends on pressure"],
+            "answer": "Positive"
+          },
+          {
+            "question": "The entropy change for an isothermal process is:",
+            "options": ["Zero", "<0", ">0", "=Q/T"],
+            "answer": "=Q/T"
+          },
+          {
+            "question": "The efficiency of a Carnot engine is given by:",
+            "options": ["1 - T₁/T₂", "T₁/T₂", "(T₂ - T₁)/T₂", "(T₁ - T₂)/T₁"],
+            "answer": "(T₂ - T₁)/T₂"
+          },
+          {
+            "question": "(ΔH) for an exothermic reaction is:",
+            "options": ["Positive", "<0", ">0", "=0"],
+            "answer": "<0"
+          },
+          {
+            "question": "(ΔS) for an irreversible process is:",
+            "options": ["Positive", "<0", ">0", "=0"],
+            "answer": ">0"
+          },
+          {
+            "question": "(ΔG) for a reversible process is:",
+            "options": ["Positive", "<0", ">0", "=0"],
+            "answer": "=0"
+          },
+          {
+            "question": "(ΔU) for an isochoric process is equal to:",
+            "options": ["Q + W", "Q - W", "-W", "-Q"],
+            "answer": "-W"
+          },
+          {
+            "question": "(ΔH) for a reaction at constant pressure is equal to:",
+            "options": ["ΔU + PΔV", "-PΔV", "-ΔU + PΔV", "-PΔU"],
+            "answer": "-ΔU + PΔV"
+          }
+        ]
+    }
+
+]
+
