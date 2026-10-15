@@ -1,0 +1,136 @@
+.container {
+  padding: 2rem 0; /* Reduced from 3rem */
+  min-height: calc(100vh - 64px - 200px);
+}
+
+.contactCard {
+  padding: 1.25rem; /* Reduced from 2rem */
+  height: 100%;
+  transition: transform 0.3s ease;
+}
+
+.contactCard:hover {
+  transform: translateY(-5px);
+}
+
+.contactItem {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem; /* Reduced from 1rem */
+  margin: 1rem 0; /* Reduced from 1.5rem */
+  padding: 0.75rem; /* Reduced from 1rem */
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+}
+
+.contactItem:hover {
+  background-color: rgba(0, 0, 0, 0.02);
+}
+
+.contactIcon {
+  color: var(--primary-color);
+  font-size: 1.5rem !important; /* Reduced from 2rem */
+}
+
+.contactForm {
+  padding: 1rem;
+}
+
+.submitButton {
+  margin-top: 1rem !important; /* Reduced from 2rem */
+  padding: 0.6rem !important; /* Reduced from 0.8rem */
+}
+
+.mapContainer {
+  margin-top: 1rem; /* Reduced from 2rem */
+  height: 300px; /* Reduced height if needed */
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.socialLinks {
+  display: flex;
+  justify-content: center;
+  gap: 1rem; /* Reduced from 1.5rem */
+  margin: 1rem 0; /* Reduced from 2rem */
+  padding: 0.75rem; /* Reduced from 1rem */
+  border-radius: 8px;
+}
+
+.socialIcon {
+  width: 40px !important; /* Reduced from 48px */
+  height: 40px !important;
+  transition: all 0.3s ease !important;
+}
+
+.socialIcon:hover {
+  transform: translateY(-5px);
+}
+
+.formTitle {
+  margin-top: 1rem !important; /* Reduced from 2rem */
+  padding-top: 1rem; /* Reduced from 2rem */
+  border-top: 1px solid var(--border-color);
+}
+
+/* Dark mode support */
+:global(.MuiTheme-dark) .contactCard {
+  background-color: var(--card-background);
+  border: 1px solid var(--border-color);
+}
+
+:global(.MuiTheme-dark) .contactItem:hover {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+:global(.MuiTheme-dark) .contactIcon {
+  color: var(--primary-color);
+}
+
+:global(.MuiTheme-dark) .contactForm,
+:global(.MuiTheme-dark) .mapContainer {
+  background-color: #2d2d2d;
+}
+
+:global(.MuiTheme-dark) .socialIcon {
+  color: var(--primary-color) !important;
+}
+
+:global(.MuiTheme-dark) .socialIcon:hover {
+  color: var(--secondary-color) !important;
+}
+
+/* Update form field spacing */
+.MuiTextField-root {
+  margin: 0.5rem 0 !important; /* Reduced margin */
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .container {
+    padding: 1rem;
+  }
+
+  .contactCard {
+    padding: 1rem;
+  }
+
+  .mapContainer {
+    height: 200px; /* Reduced height for mobile */
+  }
+
+  .contactInfo,
+  .contactForm {
+    padding: 1.5rem;
+  }
+
+  .socialLinks {
+    gap: 0.75rem;
+  }
+
+  .socialIcon {
+    width: 36px !important;
+    height: 36px !important;
+  }
+}

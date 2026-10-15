@@ -1,0 +1,73 @@
+.container {
+  padding: 3rem 0;
+}
+
+.plansContainer {
+  margin-top: 2rem;
+}
+
+.planCard {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.3s ease;
+  text-align: center;
+}
+
+.highlighted {
+  border: 2px solid #1976d2;
+  position: relative;
+}
+
+.highlighted::before {
+  content: 'Most Popular';
+  position: absolute;
+  top: -12px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #1976d2;
+  color: white;
+  padding: 4px 12px;
+  border-radius: 12px;
+  font-size: 0.8rem;
+}
+
+.planTitle {
+  color: #1976d2;
+  margin-bottom: 1rem;
+}
+
+.planPrice {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.features {
+  margin: 1.5rem 0;
+  text-align: left;
+}
+
+.feature {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 0.5rem;
+}
+
+.checkIcon {
+  color: #4caf50;
+}
+
+/* Dark mode support */
+:global(.MuiTheme-dark) .planCard {
+  background-color: #2d2d2d;
+}
+
+:global(.MuiTheme-dark) .highlighted {
+  border-color: #90caf9;
+}
+
+:global(.MuiTheme-dark) .highlighted::before {
+  background: #90caf9;
+  color: #000;
+}

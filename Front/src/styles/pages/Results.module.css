@@ -1,0 +1,81 @@
+.container {
+  padding-top: 2rem;
+  padding-bottom: 4rem;
+}
+
+.paper {
+  padding: 2rem;
+  border-radius: 16px;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.scoreSection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2rem 0;
+}
+
+.scoreCircle {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2rem 0;
+}
+
+.scorePercentage {
+  position: absolute;
+  font-weight: bold;
+}
+
+.chartsContainer {
+  margin: 2rem 0;
+}
+
+.chartPaper {
+  padding: 1.5rem;
+  height: 100%;
+  border-radius: 12px;
+}
+
+.tableContainer {
+  margin: 2rem 0;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.actionButtons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.loadingContainer,
+.errorContainer {
+  min-height: 60vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+@media (max-width: 600px) {
+  .paper {
+    padding: 1rem;
+  }
+
+  .actionButtons {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .chartsContainer {
+    margin: 1rem 0;
+  }
+}

@@ -1,0 +1,34 @@
+.container {
+  padding: 4rem 0;
+  min-height: calc(100vh - 64px - 200px); /* Adjust for navbar and footer */
+}
+
+.developerCard {
+  padding: 2rem;
+  height: 100%;
+  transition: transform 0.3s ease;
+}
+
+.developerCard:hover {
+  transform: translateY(-5px);
+}
+
+.developerInfo {
+  text-align: center;
+}
+
+.socialLinks {
+  margin-top: 1.5rem;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.socialLinks a {
+  color: inherit;
+  transition: color 0.3s ease;
+}
+
+.socialLinks a:hover {
+  color: #1976d2;
+}
