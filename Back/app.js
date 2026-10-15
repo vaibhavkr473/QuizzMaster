@@ -10,7 +10,7 @@ const authRoutes = require('./routes/authRoutes');
 const quizRoutes = require('./routes/quizRoutes');
 const resultRoutes = require('./routes/resultRoutes');
 const profileRoutes = require('./routes/profileRoutes');
-const leaderboardRoutes = require('./routes/leaderboardRoutes');
+const leaderboardRoutes = require('./routes/LeaderboardRoutes');
 // const openaiRoute = require('./routes/openai');
 
 // Load environment variables
